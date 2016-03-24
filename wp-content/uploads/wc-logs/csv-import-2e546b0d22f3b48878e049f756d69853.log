@@ -1,0 +1,198 @@
+12-27-2015 @ 05:45:35 - ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+12-27-2015 @ 05:45:35 - Parsing products CSV.
+12-27-2015 @ 05:45:35 - Finished parsing products CSV.
+12-27-2015 @ 05:45:35 - ---
+12-27-2015 @ 05:45:35 - Processing products.
+12-27-2015 @ 05:45:35 - > Row 1 - preparing for import.
+12-27-2015 @ 05:45:35 - > Inserting Test Product Tuan
+12-27-2015 @ 05:45:35 - > Inserted - post ID is 3490.
+12-27-2015 @ 05:45:35 - > Finished importing post ID 3490.
+12-27-2015 @ 05:45:35 - Finished processing products.
+01-03-2016 @ 19:03:31 - ---[ New Import ] PHP Memory: 192 MB, WP Memory: 40 MB
+01-03-2016 @ 19:03:31 - Parsing products CSV.
+01-03-2016 @ 19:03:31 - Finished parsing products CSV.
+01-03-2016 @ 19:03:31 - ---
+01-03-2016 @ 19:03:31 - Processing products.
+01-03-2016 @ 19:03:31 - > Row 1 - preparing for import.
+01-03-2016 @ 19:03:31 - > &#8220;OCT_0046&#8221; already exists.
+01-03-2016 @ 19:03:31 - > Row 2 - preparing for import.
+01-03-2016 @ 19:03:31 - > &#8220;STF_354657&#8221; already exists.
+01-03-2016 @ 19:03:31 - > Row 3 - preparing for import.
+01-03-2016 @ 19:03:31 - > &#8220;AAD_0057&#8221; already exists.
+01-03-2016 @ 19:03:31 - > Row 4 - preparing for import.
+01-03-2016 @ 19:03:31 - > &#8220;HEXA&#8221; already exists.
+01-03-2016 @ 19:03:31 - > Row 5 - preparing for import.
+01-03-2016 @ 19:03:31 - > &#8220;Test Product Tuan&#8221; already exists.
+01-03-2016 @ 19:03:31 - > Row 6 - preparing for import.
+01-03-2016 @ 19:03:31 - > Inserting Nice Tile
+01-03-2016 @ 19:03:31 - > Inserted - post ID is 14308.
+01-03-2016 @ 19:03:31 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_STF_354657.png"
+01-03-2016 @ 19:03:31 - > > Inserted image attachment "ins_STF_354657.png"
+01-03-2016 @ 19:03:31 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_STF_354657.png"
+01-03-2016 @ 19:03:31 - > > Images set
+01-03-2016 @ 19:03:31 - > Finished importing post ID 14308.
+01-03-2016 @ 19:03:31 - > Row 7 - preparing for import.
+01-03-2016 @ 19:03:31 - > Inserting Retro Style
+01-03-2016 @ 19:03:31 - > Inserted - post ID is 12289.
+01-03-2016 @ 19:03:31 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_AAD_0057.jpg"
+01-03-2016 @ 19:03:31 - > > Inserted image attachment "ins_AAD_0057.jpg"
+01-03-2016 @ 19:03:31 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_AAD_0057.jpg"
+01-03-2016 @ 19:03:31 - > > Images set
+01-03-2016 @ 19:03:31 - > Finished importing post ID 12289.
+01-03-2016 @ 19:03:31 - > Row 8 - preparing for import.
+01-03-2016 @ 19:03:31 - > Inserting Good One
+01-03-2016 @ 19:03:32 - > Inserted - post ID is 12902.
+01-03-2016 @ 19:03:32 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_hexagon.jpg"
+01-03-2016 @ 19:03:32 - > > Inserted image attachment "ins_hexagon.jpg"
+01-03-2016 @ 19:03:32 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_hexagon.jpg"
+01-03-2016 @ 19:03:32 - > > Images set
+01-03-2016 @ 19:03:32 - > Finished importing post ID 12902.
+01-03-2016 @ 19:03:32 - > Row 9 - preparing for import.
+01-03-2016 @ 19:03:32 - > Inserting Bad Stuff
+01-03-2016 @ 19:03:32 - > Inserted - post ID is 19845.
+01-03-2016 @ 19:03:32 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_OCT_0046.jpg"
+01-03-2016 @ 19:03:32 - > > Inserted image attachment "ins_OCT_0046.jpg"
+01-03-2016 @ 19:03:32 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_OCT_0046.jpg"
+01-03-2016 @ 19:03:32 - > > Images set
+01-03-2016 @ 19:03:32 - > Finished importing post ID 19845.
+01-03-2016 @ 19:03:32 - Finished processing products.
+01-03-2016 @ 19:03:34 - ---[ New Import ] PHP Memory: 192 MB, WP Memory: 40 MB
+01-03-2016 @ 19:03:34 - Parsing products CSV.
+01-03-2016 @ 19:03:34 - Finished parsing products CSV.
+01-03-2016 @ 19:03:34 - ---
+01-03-2016 @ 19:03:34 - Processing products.
+01-03-2016 @ 19:03:34 - > Row 1 - preparing for import.
+01-03-2016 @ 19:03:34 - > Inserting Luxurious
+01-03-2016 @ 19:03:34 - > Inserted - post ID is 15886.
+01-03-2016 @ 19:03:35 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_STF_354657.png"
+01-03-2016 @ 19:03:35 - > > Inserted image attachment "ins_STF_354657-1.png"
+01-03-2016 @ 19:03:35 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_STF_354657.png"
+01-03-2016 @ 19:03:35 - > > Images set
+01-03-2016 @ 19:03:35 - > Finished importing post ID 15886.
+01-03-2016 @ 19:03:35 - > Row 2 - preparing for import.
+01-03-2016 @ 19:03:35 - > Inserting Royal Tile
+01-03-2016 @ 19:03:35 - > Inserted - post ID is 14150.
+01-03-2016 @ 19:03:35 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_AAD_0057.jpg"
+01-03-2016 @ 19:03:35 - > > Inserted image attachment "ins_AAD_0057-1.jpg"
+01-03-2016 @ 19:03:35 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_AAD_0057.jpg"
+01-03-2016 @ 19:03:35 - > > Images set
+01-03-2016 @ 19:03:35 - > Finished importing post ID 14150.
+01-03-2016 @ 19:03:35 - > Row 3 - preparing for import.
+01-03-2016 @ 19:03:35 - > Inserting Egornomic Style
+01-03-2016 @ 19:03:35 - > Inserted - post ID is 18654.
+01-03-2016 @ 19:03:36 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_hexagon.jpg"
+01-03-2016 @ 19:03:36 - > > Inserted image attachment "ins_hexagon-1.jpg"
+01-03-2016 @ 19:03:36 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_hexagon.jpg"
+01-03-2016 @ 19:03:36 - > > Images set
+01-03-2016 @ 19:03:36 - > Finished importing post ID 18654.
+01-03-2016 @ 19:03:36 - > Row 4 - preparing for import.
+01-03-2016 @ 19:03:36 - > Inserting Moneyless
+01-03-2016 @ 19:03:36 - > Inserted - post ID is 14580.
+01-03-2016 @ 19:03:36 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_OCT_0046.jpg"
+01-03-2016 @ 19:03:36 - > > Inserted image attachment "ins_OCT_0046-1.jpg"
+01-03-2016 @ 19:03:36 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_OCT_0046.jpg"
+01-03-2016 @ 19:03:36 - > > Images set
+01-03-2016 @ 19:03:36 - > Finished importing post ID 14580.
+01-03-2016 @ 19:03:36 - > Row 5 - preparing for import.
+01-03-2016 @ 19:03:36 - > Inserting Excellion
+01-03-2016 @ 19:03:36 - > Inserted - post ID is 19655.
+01-03-2016 @ 19:03:36 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_STF_354657.png"
+01-03-2016 @ 19:03:36 - > > Inserted image attachment "ins_STF_354657-2.png"
+01-03-2016 @ 19:03:36 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_STF_354657.png"
+01-03-2016 @ 19:03:36 - > > Images set
+01-03-2016 @ 19:03:36 - > Finished importing post ID 19655.
+01-03-2016 @ 19:03:36 - > Row 6 - preparing for import.
+01-03-2016 @ 19:03:37 - > Inserting miral
+01-03-2016 @ 19:03:37 - > Inserted - post ID is 16027.
+01-03-2016 @ 19:03:37 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_AAD_0057.jpg"
+01-03-2016 @ 19:03:37 - > > Inserted image attachment "ins_AAD_0057-2.jpg"
+01-03-2016 @ 19:03:37 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_AAD_0057.jpg"
+01-03-2016 @ 19:03:37 - > > Images set
+01-03-2016 @ 19:03:37 - > Finished importing post ID 16027.
+01-03-2016 @ 19:03:37 - > Row 7 - preparing for import.
+01-03-2016 @ 19:03:37 - > Inserting inciple
+01-03-2016 @ 19:03:37 - > Inserted - post ID is 10669.
+01-03-2016 @ 19:03:37 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_hexagon.jpg"
+01-03-2016 @ 19:03:37 - > > Inserted image attachment "ins_hexagon-2.jpg"
+01-03-2016 @ 19:03:37 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_hexagon.jpg"
+01-03-2016 @ 19:03:37 - > > Images set
+01-03-2016 @ 19:03:37 - > Finished importing post ID 10669.
+01-03-2016 @ 19:03:37 - > Row 8 - preparing for import.
+01-03-2016 @ 19:03:37 - > Inserting examplexia
+01-03-2016 @ 19:03:37 - > Inserted - post ID is 16211.
+01-03-2016 @ 19:03:38 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_OCT_0046.jpg"
+01-03-2016 @ 19:03:38 - > > Inserted image attachment "ins_OCT_0046-2.jpg"
+01-03-2016 @ 19:03:38 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_OCT_0046.jpg"
+01-03-2016 @ 19:03:38 - > > Images set
+01-03-2016 @ 19:03:38 - > Finished importing post ID 16211.
+01-03-2016 @ 19:03:38 - > Row 9 - preparing for import.
+01-03-2016 @ 19:03:38 - > Inserting Lombardy
+01-03-2016 @ 19:03:38 - > Inserted - post ID is 16845.
+01-03-2016 @ 19:03:38 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_STF_354657.png"
+01-03-2016 @ 19:03:38 - > > Inserted image attachment "ins_STF_354657-3.png"
+01-03-2016 @ 19:03:38 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_STF_354657.png"
+01-03-2016 @ 19:03:38 - > > Images set
+01-03-2016 @ 19:03:38 - > Finished importing post ID 16845.
+01-03-2016 @ 19:03:38 - > Row 10 - preparing for import.
+01-03-2016 @ 19:03:38 - > Inserting Civilizard
+01-03-2016 @ 19:03:38 - > Inserted - post ID is 19226.
+01-03-2016 @ 19:03:38 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_AAD_0057.jpg"
+01-03-2016 @ 19:03:38 - > > Inserted image attachment "ins_AAD_0057-3.jpg"
+01-03-2016 @ 19:03:38 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_AAD_0057.jpg"
+01-03-2016 @ 19:03:38 - > > Images set
+01-03-2016 @ 19:03:38 - > Finished importing post ID 19226.
+01-03-2016 @ 19:03:38 - Finished processing products.
+01-03-2016 @ 19:03:40 - ---[ New Import ] PHP Memory: 192 MB, WP Memory: 40 MB
+01-03-2016 @ 19:03:40 - Parsing products CSV.
+01-03-2016 @ 19:03:40 - Finished parsing products CSV.
+01-03-2016 @ 19:03:40 - ---
+01-03-2016 @ 19:03:40 - Processing products.
+01-03-2016 @ 19:03:40 - > Row 1 - preparing for import.
+01-03-2016 @ 19:03:40 - > Inserting Planeta
+01-03-2016 @ 19:03:40 - > Inserted - post ID is 13660.
+01-03-2016 @ 19:03:41 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_hexagon.jpg"
+01-03-2016 @ 19:03:41 - > > Inserted image attachment "ins_hexagon-3.jpg"
+01-03-2016 @ 19:03:41 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_hexagon.jpg"
+01-03-2016 @ 19:03:41 - > > Images set
+01-03-2016 @ 19:03:41 - > Finished importing post ID 13660.
+01-03-2016 @ 19:03:41 - > Row 2 - preparing for import.
+01-03-2016 @ 19:03:41 - > Inserting Universe
+01-03-2016 @ 19:03:41 - > Inserted - post ID is 12243.
+01-03-2016 @ 19:03:41 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_OCT_0046.jpg"
+01-03-2016 @ 19:03:41 - > > Inserted image attachment "ins_OCT_0046-3.jpg"
+01-03-2016 @ 19:03:41 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_OCT_0046.jpg"
+01-03-2016 @ 19:03:41 - > > Images set
+01-03-2016 @ 19:03:41 - > Finished importing post ID 12243.
+01-03-2016 @ 19:03:41 - > Row 3 - preparing for import.
+01-03-2016 @ 19:03:41 - > Inserting Bollet
+01-03-2016 @ 19:03:41 - > Inserted - post ID is 16037.
+01-03-2016 @ 19:03:41 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_STF_354657.png"
+01-03-2016 @ 19:03:41 - > > Inserted image attachment "ins_STF_354657-4.png"
+01-03-2016 @ 19:03:41 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_STF_354657.png"
+01-03-2016 @ 19:03:41 - > > Images set
+01-03-2016 @ 19:03:41 - > Finished importing post ID 16037.
+01-03-2016 @ 19:03:41 - > Row 4 - preparing for import.
+01-03-2016 @ 19:03:41 - > Inserting Singulairy
+01-03-2016 @ 19:03:41 - > Inserted - post ID is 14088.
+01-03-2016 @ 19:03:42 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_AAD_0057.jpg"
+01-03-2016 @ 19:03:42 - > > Inserted image attachment "ins_AAD_0057-4.jpg"
+01-03-2016 @ 19:03:42 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_AAD_0057.jpg"
+01-03-2016 @ 19:03:42 - > > Images set
+01-03-2016 @ 19:03:42 - > Finished importing post ID 14088.
+01-03-2016 @ 19:03:42 - > Row 5 - preparing for import.
+01-03-2016 @ 19:03:42 - > Inserting Mambaba
+01-03-2016 @ 19:03:42 - > Inserted - post ID is 12449.
+01-03-2016 @ 19:03:42 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_hexagon.jpg"
+01-03-2016 @ 19:03:42 - > > Inserted image attachment "ins_hexagon-4.jpg"
+01-03-2016 @ 19:03:42 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_hexagon.jpg"
+01-03-2016 @ 19:03:42 - > > Images set
+01-03-2016 @ 19:03:42 - > Finished importing post ID 12449.
+01-03-2016 @ 19:03:42 - > Row 6 - preparing for import.
+01-03-2016 @ 19:03:42 - > Inserting Eternity
+01-03-2016 @ 19:03:42 - > Inserted - post ID is 12044.
+01-03-2016 @ 19:03:42 - > > Importing image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_OCT_0046.jpg"
+01-03-2016 @ 19:03:42 - > > Inserted image attachment "ins_OCT_0046-4.jpg"
+01-03-2016 @ 19:03:42 - > > Imported image "http://tuantran.name.vn/capstone/wp-content/uploads/2015/12/ins_OCT_0046.jpg"
+01-03-2016 @ 19:03:42 - > > Images set
+01-03-2016 @ 19:03:42 - > Finished importing post ID 12044.
+01-03-2016 @ 19:03:42 - Finished processing products.

@@ -1,0 +1,114 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('./icons/icomoon.eot');
+	src:url('./icons/icomoon.eot?#iefix') format('embedded-opentype'),
+		url('./icons/icomoon.woff') format('woff'),
+		url('./icons/icomoon.ttf') format('truetype'),
+		url('./icons/icomoon.svg#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+[data-icon]:before {
+	font-family: 'icomoon';
+	content: attr(data-icon);
+	speak: none;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.icon-to-x,
+.icon-to-search,
+.icon-to-right-arrow,
+.icon-to-left-arrow,
+.icon-to-right-line,
+.icon-to-back,
+.icon-to-left-arrow-thin,
+.icon-to-right-arrow-thin,
+.icon-to-down-arrow-thin,
+.icon-to-down-arrow,
+.icon-to-google-plus,
+.icon-to-facebook,
+.icon-to-twitter,
+.icon-to-pinterest,
+.icon-to-heart,
+.icon-to-heart-2,
+.icon-to-plus,
+.icon-to-cart,
+.icon-to-pencil,
+.icon-be, 
+.icon-vimeo  { 
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+.icon-to-x:before {
+	content: "\e003";
+}
+.icon-to-search:before {
+	content: "\e002";
+}
+.icon-to-right-arrow:before {
+	content: "\e000";
+}
+.icon-to-left-arrow:before { 
+	content: "\e001";
+}
+.icon-to-right-line:before {
+	content: "\e004";
+}
+.icon-to-back:before {
+	content: "\e005";
+}
+.icon-to-right-arrow-thin:before {
+	content: "\e006";
+}
+.icon-to-left-arrow-thin:before {
+	content: "\e007";
+}
+.icon-to-down-arrow-thin:before {
+	content: "\e00c";
+}
+.icon-to-down-arrow:before {
+	content: "\e008";
+}
+.icon-to-google-plus:before {
+	content: "\e009";
+}
+.icon-to-facebook:before {
+	content: "\e00a";
+}
+.icon-to-twitter:before {
+	content: "\e00b";
+}
+.icon-to-pinterest:before {
+	content: "\e00d";
+}
+.icon-to-heart:before {
+	content: "\e00e";
+}
+.icon-to-heart-2:before {
+	content: "\e00f";
+}
+.icon-to-plus:before {
+	content: "\e010";
+}
+.icon-to-cart:before {
+	content: "\e012";
+}
+.icon-to-pencil:before {
+	content: "\e011";
+}
+.icon-be:before {
+	content: "\e013";
+}
+.icon-vimeo:before {
+	content: "\e014";
+}

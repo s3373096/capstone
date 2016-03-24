@@ -1,0 +1,3981 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Themeone Shortcode\n"
+"POT-Creation-Date: 2015-07-21 19:36+0100\n"
+"PO-Revision-Date: 2015-07-21 19:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: Themeone <themeone.master@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../tinymce/shortcodes-class.php:231 ../tinymce/shortcodes-class.php:385
+#: ../vc-addons/vc-addons.php:537 ../vc-addons/vc-addons.php:553
+msgid "Upload"
+msgstr ""
+
+#: ../tinymce/shortcodes-class.php:232 ../tinymce/shortcodes-class.php:386
+#: ../vc-addons/vc-addons.php:538 ../vc-addons/vc-addons.php:554
+msgid "Remove"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:881
+msgid "Section"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:882 ../tinymce/shortcodes-config.php:964
+#: ../tinymce/shortcodes-config.php:1063 ../tinymce/shortcodes-config.php:1135
+#: ../tinymce/shortcodes-config.php:1248
+msgid "Place content element inside section"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:883 ../tinymce/shortcodes-config.php:965
+#: ../tinymce/shortcodes-config.php:1064 ../tinymce/shortcodes-config.php:1136
+#: ../tinymce/shortcodes-config.php:1249 ../vc-addons/vc-addons.php:1128
+msgid "Layout"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:884
+msgid "media-controls-stop"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:890 ../tinymce/shortcodes-config.php:972
+#: ../tinymce/shortcodes-config.php:1143
+msgid "Section layout"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:891
+msgid ""
+"Choose the type of layout.<br> In most of case you should use boxed layout."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:900
+msgid "Background color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:901
+msgid ""
+"You can set a background color for the section.<br> If no color is chosen, "
+"the default background color of the theme will be set.<br> The background "
+"color will be apply to the full width of the website"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:906 ../tinymce/shortcodes-config.php:1044
+#: ../tinymce/shortcodes-config.php:1115 ../tinymce/shortcodes-config.php:1229
+#: ../vc-addons/vc-addons.php:933
+msgid "Text color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:907
+msgid ""
+"You can set a text color scheme for the section.<br> If no color is chosen, "
+"the default text color of the theme will be set.<br> If you didn't choose a "
+"background color, you will probably don't need to apply a text color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:917
+msgid "Section Top Decoration"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:918 ../vc-addons/vc-addons.php:188
+msgid ""
+"If you want to style the section separator instead of a straight line, "
+"choose a decoration for the top section."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:937
+msgid "Section Bottom Decoration"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:938 ../vc-addons/vc-addons.php:211
+msgid ""
+"If you want to style the section separator instead of a straight line, "
+"choose a decoration for the bottom section."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:963
+msgid "Image Section"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:966 ../tinymce/shortcodes-config.php:1065
+msgid "media-pic-mountains"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:973
+msgid "Choose the type of layout inside the image section."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:982 ../tinymce/shortcodes-config.php:1153
+#: ../vc-addons/vc-addons.php:234
+msgid "Parallax"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:983 ../tinymce/shortcodes-config.php:1154
+msgid "Active this option if you want a parallax animation on scroll"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:988 ../tinymce/shortcodes-config.php:1071
+#: ../vc-addons/vc-addons.php:244
+msgid "Background Image"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:989
+msgid ""
+"The minimum width for a correct resolution is 1280px (1920px is the best "
+"width for HD resolution)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:994 ../tinymce/shortcodes-config.php:1087
+msgid "Background Repeat"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:995
+msgid ""
+"A full image should use no-repeat option.<br> If you want to use a pattern, "
+"you should use repeat option"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1004 ../vc-addons/vc-addons.php:279
+msgid "Background Blur"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1005
+msgid "Check this option if you want to apply a blur effect on your image"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1010 ../tinymce/shortcodes-config.php:1097
+#: ../tinymce/shortcodes-config.php:1195
+msgid "Padding Top"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1011
+msgid ""
+"Set the padding top of the image section.<br>If there isn't any content "
+"inside your image section, the padding top + bottom represent the total "
+"height of the image section.<br><strong>Please do not add \"px\"</strong>"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1016 ../tinymce/shortcodes-config.php:1103
+#: ../tinymce/shortcodes-config.php:1201
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1017
+msgid ""
+"Set the padding bottom of the image section.<br>If there isn't any content "
+"inside your image section, the padding top + bottom represent the total "
+"height of the image section.<br><strong>Please do not add \"px\"</strong>"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1022 ../tinymce/shortcodes-config.php:1207
+msgid "Section Overlay Background Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1023 ../tinymce/shortcodes-config.php:1110
+#: ../tinymce/shortcodes-config.php:1208
+msgid ""
+"You can add an overlay background color over the image section (usefull is "
+"you want to have a readable text inside this section)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1032 ../tinymce/shortcodes-config.php:1217
+msgid "Section Overlay Background Opacity"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1033 ../tinymce/shortcodes-config.php:1218
+msgid "<br>You can set the overlay background opacity"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1038 ../tinymce/shortcodes-config.php:1223
+msgid "Section Overlay Background Pattern"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1039 ../tinymce/shortcodes-config.php:1224
+msgid ""
+"You can add a pattern to the section overlay (in addition to the background "
+"color and opacity if you need)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1045 ../tinymce/shortcodes-config.php:1116
+#: ../tinymce/shortcodes-config.php:1230
+msgid ""
+"You can set the text color inside the image section.<br> If no color is "
+"chosen, the default text color of the theme will be set"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1062
+msgid "Side Image Section"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1072
+msgid "Upload your image"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1077
+msgid "Image position"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1078
+msgid "Choose position of the image"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1088
+msgid "If you want to use a pattern, you should use repeat option"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1098
+msgid ""
+"Set the padding top of the side image section.<br>If there isn't any content "
+"inside your side image section, the padding top + bottom represent the total "
+"height of the side image section.<br><strong>Please do not add \"px\"</"
+"strong>"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1104
+msgid ""
+"Set the padding bottom of the side image section.<br>If there isn't any "
+"content inside your side image section, the padding top + bottom represent "
+"the total height of the side image section.<br><strong>Please do not add \"px"
+"\"</strong>"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1109
+msgid "Section Background Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1134
+msgid "Video Section"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1137
+msgid "media-movies"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1144
+msgid "Choose the type of layout inside the video section."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1159 ../tinymce/shortcodes-config.php:3249
+#: ../vc-addons/vc-addons.php:3214
+msgid "M4V/MP4 File URL"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1160 ../tinymce/shortcodes-config.php:3250
+msgid "Please enter an URL or upload your .m4v/.mp4 video file"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1165
+msgid "OGV/OGG File URL "
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1166 ../tinymce/shortcodes-config.php:3262
+#: ../vc-addons/vc-addons.php:3235
+msgid "Please enter an URL or upload your .ogv/.ogg video file"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1171
+msgid "Webm File URL "
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1172 ../tinymce/shortcodes-config.php:3256
+#: ../vc-addons/vc-addons.php:3226
+msgid "Please enter an URL or upload your .webm video file"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1177 ../tinymce/shortcodes-config.php:3267
+#: ../vc-addons/vc-addons.php:3241
+msgid "Youtube Embed URL"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1178
+msgid ""
+"Paste the embed youtube link here if you want a youtube video as a background"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1183 ../tinymce/shortcodes-config.php:3273
+#: ../vc-addons/vc-addons.php:3250
+msgid "Vimeo Embed URL"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1184
+msgid ""
+"Paste the embed vimeo link here if you want a vimeo video as a background"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1189 ../tinymce/shortcodes-config.php:3279
+#: ../vc-addons/vc-addons.php:3259
+msgid "Video Poster"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1190
+msgid ""
+"Set a poster for the video (Nedeed! It's displayed when the video format is "
+"not supported by the client browser)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1196
+msgid ""
+"Set the padding top of the video section.<br>If there isn't any content "
+"inside your video section, the padding top + bottom represent the total "
+"height of the video section.<br><strong>Please do not add \"px\"</strong>"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1202
+msgid ""
+"Set the padding bottom of the video section.<br>If there isn't any content "
+"inside your video section, the padding top + bottom represent the total "
+"height of the video section.<br><strong>Please do not add \"px\"</strong>"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1247
+msgid "Column"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1250
+msgid "fa-columns"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1259
+msgid "Column Type"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1260
+msgid "Select the type, ie width of the column."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1275 ../tinymce/shortcodes-config.php:2252
+#: ../vc-addons/vc-addons.php:145 ../vc-addons/vc-addons.php:158
+#: ../vc-addons/vc-addons.php:397 ../vc-addons/vc-addons.php:439
+#: ../vc-addons/vc-addons.php:1845
+msgid "Text alignment"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1276
+msgid "Choose the alignment text"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1286
+msgid "Column Background Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1287
+msgid ""
+"You can set a background color to the column.<br> If no color is chosen, the "
+"default background color of the theme will be set."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1292
+msgid "Boxed Column"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1298
+msgid "Padding Column"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1299
+msgid ""
+"Add padding inside the column and remove margin between columns.<br>The "
+"columns become stick together (perfect for column color background effect)."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1304
+msgid "Last Column"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1305
+msgid ""
+"Check this for the last column in a row. i.e. when the columns add up to 1."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1310 ../vc-addons/vc-addons.php:410
+#: ../vc-addons/vc-addons.php:452
+msgid "Column Animation"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1311 ../tinymce/shortcodes-config.php:3210
+#: ../vc-addons/vc-addons.php:421 ../vc-addons/vc-addons.php:463
+msgid "Animation allows to animate a column when user scroll to it"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1329 ../vc-addons/vc-addons.php:430
+#: ../vc-addons/vc-addons.php:472
+msgid "Column Animation Delay"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1330 ../tinymce/shortcodes-config.php:3229
+msgid ""
+"<br>It Allows to apply a delay when the column is reach before to display it "
+"with an animation"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1335
+msgid "Column Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1336
+msgid "Add the column content."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1340
+msgid "Add Column"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1349 ../vc-addons/vc-addons.php:599
+msgid "Spacer"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1350 ../vc-addons/vc-addons.php:602
+msgid "Add vertical space between elements"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1351 ../tinymce/shortcodes-config.php:1384
+#: ../vc-addons/vc-addons.php:604 ../vc-addons/vc-addons.php:641
+msgid "Separator"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1352
+msgid "fa-arrows-v"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1362
+msgid "Spacer Height"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1363
+msgid "<br>Choose a spacer height in px"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1368
+msgid "Spacer Class"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1369 ../vc-addons/vc-addons.php:623
+msgid "Add a spacer class if you want to customize it"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1381 ../vc-addons/vc-addons.php:636
+msgid "Divider"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1382
+msgid "fa-ellipsis-h"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1383 ../vc-addons/vc-addons.php:639
+msgid "Add horizontal line separator"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1390
+msgid "Divider Style"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1391 ../vc-addons/vc-addons.php:654
+msgid "Choose a style for the divider"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1401
+msgid "Divider Position"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1402
+msgid "Choose the divider position/alignement"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1416
+msgid "Divider Width"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1417 ../tinymce/shortcodes-config.php:1427
+msgid "<br>Choose a divider height in px"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1426
+msgid "Divider height"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1432
+msgid "Divider Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1433 ../vc-addons/vc-addons.php:699
+msgid "Choose a color for the divider border"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1445 ../vc-addons/vc-addons.php:712
+msgid "Header"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1446
+msgid "fa-h-square"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1447 ../vc-addons/vc-addons.php:715
+msgid "Add header to section or important sentence (SEO)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1448 ../tinymce/shortcodes-config.php:1529
+#: ../tinymce/shortcodes-config.php:1557 ../tinymce/shortcodes-config.php:1606
+#: ../tinymce/shortcodes-config.php:1635 ../tinymce/shortcodes-config.php:1744
+#: ../vc-addons/vc-addons.php:717 ../vc-addons/vc-addons.php:818
+#: ../vc-addons/vc-addons.php:854
+msgid "Typography"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1454
+msgid "Header type"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1455 ../vc-addons/vc-addons.php:750
+msgid ""
+"Choose the header type.<br>From order of SEO priority H1(most important) to "
+"H6.<br>H1 for website title/website page tile (only one per page).<br>H2 for "
+"blog entry title inside main page<br>H2, H3, H4, H5, H6, for your preferred "
+"key phrases"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1468
+msgid "Header alignment"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1469 ../vc-addons/vc-addons.php:762
+msgid "Choose the header alignment text"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1479
+msgid "Header color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1480 ../vc-addons/vc-addons.php:771
+msgid ""
+"You can set a text color for the header.<br> If no color is chosen, the "
+"default text color of the theme will be set"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1485 ../vc-addons/vc-addons.php:776
+msgid "Title Decoration"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1486 ../vc-addons/vc-addons.php:779
+msgid ""
+"Add a decoration before and after the title. (an horizontal gradient bar "
+"color)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1491 ../vc-addons/vc-addons.php:784
+msgid "Decoration Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1492 ../vc-addons/vc-addons.php:787
+msgid "Set decoration color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1501 ../vc-addons/vc-addons.php:797
+msgid "Decoration height"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1502 ../vc-addons/vc-addons.php:799
+msgid "Set an height to the decoration"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1507
+msgid "Header title"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1508 ../vc-addons/vc-addons.php:726
+msgid "Write your title header."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1513
+msgid "Header subtitle"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1514 ../vc-addons/vc-addons.php:735
+msgid ""
+"Write your subtitle header. The subtilte is added at the bottom of the "
+"header title."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1526 ../vc-addons/vc-addons.php:813
+msgid "Quote"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1527
+msgid "fa-quote-left"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1528 ../vc-addons/vc-addons.php:816
+msgid "Add a formatted quote/citation"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1535 ../vc-addons/vc-addons.php:824
+msgid "Quote Text Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1536 ../vc-addons/vc-addons.php:827
+msgid ""
+"Choose a color for quote text.<br> If no color is chosen, the default text "
+"color of the theme will be set"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1541 ../vc-addons/vc-addons.php:833
+msgid "Quote Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1542 ../vc-addons/vc-addons.php:836
+msgid "Type the quote content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1554 ../vc-addons/vc-addons.php:849
+msgid "Pull Quote"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1555
+msgid "fa-indent"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1556 ../vc-addons/vc-addons.php:852
+msgid "Add a pull quote floated inside text"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1563
+msgid "Pull quote alignment"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1564 ../vc-addons/vc-addons.php:866
+msgid "Select a pull quote alignment"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1574
+msgid "Pull Quote Boreder"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1575
+msgid "choose this option to add a top and bottom border to the pull quote"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1584
+msgid "Pull Quote Width"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1585
+msgid "<br>Choose a width of the pull quote in %"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1590
+msgid "Pull Quote Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1591 ../vc-addons/vc-addons.php:897
+msgid "Type the pull quote content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1603
+msgid "Drop Cap"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1604
+msgid "fa-bold"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1605
+msgid "Add a Drop Cap a the beginning of a text"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1612
+msgid "Type your drop cap letter"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1619
+msgid "Drop Cap Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1620
+msgid "Choose a color for the drop cap"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1632
+msgid "Custom Font"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1633
+msgid "fa-font"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1634
+msgid "Add a google font from more than 500+ fonts"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1641
+msgid "Font Family"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1642
+msgid "Select a font family"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1647
+msgid "Font Decoration"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1648
+msgid "Choose a decoration"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1659
+msgid "Font Style"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1660
+msgid "Choose a style for the font"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1670
+msgid "Font alignment"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1671
+msgid "Choose the alignment"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1685
+msgid "Font Size"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1686
+msgid "<br>Choose a font size in px"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1695
+msgid "Font Line Height"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1696
+msgid "<br>Choose a font Line Height in px"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1705
+msgid "Font Padding"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1706
+msgid "<br>Choose a padding in px"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1711
+msgid "Font Bold"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1712
+msgid "choose this option if you want a bold font"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1717
+msgid "Font Uppercase"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1718
+msgid "choose this option if you want uppercase text"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1723
+msgid "Font Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1724
+msgid "Choose a color for the custom font"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1729 ../tinymce/shortcodes-config.php:1762
+#: ../tinymce/shortcodes-config.php:1930 ../vc-addons/vc-addons.php:893
+#: ../vc-addons/vc-addons.php:1366 ../vc-addons/vc-addons.php:1603
+#: ../vc-addons/vc-addons.php:1742
+msgid "Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1730
+msgid "Type the custom font content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1741
+msgid "Highlight"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1742
+msgid "general-pencil"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1743
+msgid "Increase visibility of key word/sentence"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1750 ../tinymce/shortcodes-config.php:1793
+msgid "Text Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1751 ../tinymce/shortcodes-config.php:1794
+#: ../vc-addons/vc-addons.php:936
+msgid "Choose a color for text"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1756 ../vc-addons/vc-addons.php:1518
+#: ../vc-addons/vc-addons.php:1657
+msgid "Background Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1757
+msgid "Choose a color for the highlighted text background color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1763
+msgid "Enter your highlighted text"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1774
+msgid "Type writer"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1775
+msgid "icon-et-printer"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1776 ../vc-addons/vc-addons.php:913
+msgid "Animated text sentences like a type writer"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1777 ../tinymce/shortcodes-config.php:1814
+#: ../tinymce/shortcodes-config.php:1923 ../tinymce/shortcodes-config.php:2052
+#: ../tinymce/shortcodes-config.php:2158 ../tinymce/shortcodes-config.php:2332
+#: ../tinymce/shortcodes-config.php:2425 ../tinymce/shortcodes-config.php:2487
+#: ../tinymce/shortcodes-config.php:2524 ../tinymce/shortcodes-config.php:2945
+#: ../tinymce/shortcodes-config.php:3191 ../tinymce/shortcodes-config.php:3243
+#: ../tinymce/shortcodes-config.php:3296 ../tinymce/shortcodes-config.php:3482
+#: ../tinymce/shortcodes-config.php:3695 ../vc-addons/vc-addons.php:915
+#: ../vc-addons/vc-addons.php:963 ../vc-addons/vc-addons.php:1108
+#: ../vc-addons/vc-addons.php:1360 ../vc-addons/vc-addons.php:1412
+#: ../vc-addons/vc-addons.php:1588 ../vc-addons/vc-addons.php:1727
+#: ../vc-addons/vc-addons.php:1957 ../vc-addons/vc-addons.php:2056
+#: ../vc-addons/vc-addons.php:2112 ../vc-addons/vc-addons.php:2153
+#: ../vc-addons/vc-addons.php:2192 ../vc-addons/vc-addons.php:3070
+#: ../vc-addons/vc-addons.php:3208
+msgid "Element"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1787 ../vc-addons/vc-addons.php:925
+msgid "Pause time between each word/sentence"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1788
+msgid "<br>Choose the pause time in ms"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1799
+msgid "Word/sentences"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1800
+msgid "Enter your word/sentences"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1811 ../vc-addons/vc-addons.php:958
+msgid "Button"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1812
+msgid "general-paperclip"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1813 ../vc-addons/vc-addons.php:961
+msgid "Eye catching link button"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1820
+msgid "Button's Text"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1821
+msgid "Add the button's text"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1826
+msgid "Button URL"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1827 ../vc-addons/vc-addons.php:982
+msgid "Add the button's url (e.g http://example.com)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1831 ../vc-addons/vc-addons.php:2021
+msgid "Button Target"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1832 ../tinymce/shortcodes-config.php:2393
+#: ../vc-addons/vc-addons.php:994 ../vc-addons/vc-addons.php:2023
+msgid "_self = open in same window. _blank = open in new window"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1841
+msgid "Button Size"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1842 ../vc-addons/vc-addons.php:1009
+msgid "Select the button's size"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1853 ../vc-addons/vc-addons.php:1018
+msgid "Button Type"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1854 ../vc-addons/vc-addons.php:1020
+msgid "Select the button's type"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1863 ../vc-addons/vc-addons.php:1030
+msgid "Button Border"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1864 ../vc-addons/vc-addons.php:1032
+msgid "Select the button's border radius aspect"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1874 ../vc-addons/vc-addons.php:1041
+msgid "Button style"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1875 ../vc-addons/vc-addons.php:1043
+msgid ""
+"Select the button's style.<br>The border color correspond to the text color."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1884 ../vc-addons/vc-addons.php:1049
+msgid "Button text color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1885 ../vc-addons/vc-addons.php:1052
+msgid "Choose the button text/border color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1890 ../vc-addons/vc-addons.php:1058
+msgid "Button background color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1891 ../vc-addons/vc-addons.php:1061
+msgid "Choose the button background color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1896 ../vc-addons/vc-addons.php:1067
+msgid "Button background Animation"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1897 ../vc-addons/vc-addons.php:1070
+msgid ""
+"Active this option if you want to add a background color animation on mouse "
+"over."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1902 ../vc-addons/vc-addons.php:1076
+msgid "Button Icon Animation"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1903 ../vc-addons/vc-addons.php:1079
+msgid "Active this option if you want to show icon on mouse over."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1921 ../vc-addons/vc-addons.php:1355
+msgid "Tooltip"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1922 ../vc-addons/vc-addons.php:1358
+msgid "Add a popup information on tooltip hover"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1924
+msgid "general-target"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1931 ../vc-addons/vc-addons.php:1369
+#: ../vc-addons/vc-addons.php:1606
+msgid "Enter the tooltip content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1936
+msgid "Button tooltip color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1937 ../vc-addons/vc-addons.php:1378
+msgid "Choose the button tooltip color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1942 ../vc-addons/vc-addons.php:1383
+msgid "Left position"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1943
+msgid ""
+"Enter the top position in percent. The position is absolute to the parent "
+"container of the tooltip.<br><strong>(Please do not add %)</strong>"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1948 ../vc-addons/vc-addons.php:1391
+msgid "Top position"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1949
+msgid ""
+"Enter the left position in percent. The position is absolute to the parent "
+"container of the tooltip.<br><strong>(Please do not add %)</strong>"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1961 ../vc-addons/vc-addons.php:1467
+#: ../vc-addons/vc-addons.php:2222 ../vc-addons/vc-addons.php:2232
+#: ../vc-addons/vc-addons.php:2319 ../vc-addons/vc-addons.php:2329
+#: ../vc-addons/vc-addons.php:2408 ../vc-addons/vc-addons.php:2417
+#: ../vc-addons/vc-addons.php:2423 ../vc-addons/vc-addons.php:2427
+#: ../vc-addons/vc-addons.php:2522 ../vc-addons/vc-addons.php:2526
+#: ../vc-addons/vc-addons.php:2535
+msgid "Icon"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1962
+msgid "general-pinwheel"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1963 ../vc-addons/vc-addons.php:1470
+msgid "900+ amazing web font icons"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1964 ../tinymce/shortcodes-config.php:2199
+#: ../tinymce/shortcodes-config.php:2247 ../tinymce/shortcodes-config.php:2576
+#: ../tinymce/shortcodes-config.php:2629 ../tinymce/shortcodes-config.php:2709
+#: ../tinymce/shortcodes-config.php:2786 ../vc-addons/vc-addons.php:1472
+#: ../vc-addons/vc-addons.php:1781 ../vc-addons/vc-addons.php:1830
+#: ../vc-addons/vc-addons.php:1888 ../vc-addons/vc-addons.php:2250
+#: ../vc-addons/vc-addons.php:2347 ../vc-addons/vc-addons.php:2446
+#: ../vc-addons/vc-addons.php:2496 ../vc-addons/vc-addons.php:2560
+#: ../vc-addons/vc-addons.php:2609 ../vc-addons/vc-addons.php:2696
+msgid "Infography"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1970 ../tinymce/shortcodes-config.php:2070
+msgid "Icon Size"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1971 ../tinymce/shortcodes-config.php:2071
+#: ../vc-addons/vc-addons.php:1487 ../vc-addons/vc-addons.php:1634
+msgid ""
+"Choose an icon size.<br> Tiny = current font size.<br> Small = current font "
+"size x 1.33.<br> Regular = current font size x 2.<br> Large = current font "
+"size x 3.<br> Big = current font size x 4.<br> Huge = current font size x 5"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1984
+msgid "Icon Inline"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1985 ../vc-addons/vc-addons.php:1495
+msgid ""
+"Active this option if you want to put an inline icon at the beginning of a "
+"paragraph or a header."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1990 ../tinymce/shortcodes-config.php:2095
+msgid "Icon Spinning Animation"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1991 ../tinymce/shortcodes-config.php:2096
+#: ../vc-addons/vc-addons.php:1531 ../vc-addons/vc-addons.php:1670
+msgid "This option allows to get any icon to rotate infinitely."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1995 ../tinymce/shortcodes-config.php:2100
+msgid "Icon Hover Animation"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:1996 ../tinymce/shortcodes-config.php:2101
+#: ../vc-addons/vc-addons.php:1559 ../vc-addons/vc-addons.php:1698
+msgid "Select the type of animation on icon over."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2012 ../tinymce/shortcodes-config.php:2117
+msgid "Icon Background"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2013 ../tinymce/shortcodes-config.php:2118
+#: ../vc-addons/vc-addons.php:1512 ../vc-addons/vc-addons.php:1651
+msgid "Add a full background under the icon."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2018 ../tinymce/shortcodes-config.php:2123
+msgid "Icon Background Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2019 ../tinymce/shortcodes-config.php:2124
+#: ../vc-addons/vc-addons.php:1521 ../vc-addons/vc-addons.php:1660
+msgid ""
+"Choose a background color.<br>(If no background color is added, the default "
+"background color of the theme will be set)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2024 ../tinymce/shortcodes-config.php:2129
+msgid "Icon Background Color Animation"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2025 ../tinymce/shortcodes-config.php:2130
+#: ../vc-addons/vc-addons.php:1540 ../vc-addons/vc-addons.php:1679
+msgid ""
+"Check this option if you want to animate the background color on icon over."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2030 ../tinymce/shortcodes-config.php:2135
+#: ../tinymce/shortcodes-config.php:2176 ../vc-addons/vc-addons.php:1500
+#: ../vc-addons/vc-addons.php:1639 ../vc-addons/vc-addons.php:1750
+msgid "Icon Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2031 ../tinymce/shortcodes-config.php:2136
+#: ../tinymce/shortcodes-config.php:2177 ../vc-addons/vc-addons.php:1503
+#: ../vc-addons/vc-addons.php:1642 ../vc-addons/vc-addons.php:1753
+msgid "If no color is chosen, the default text color of the theme will be set."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2049 ../vc-addons/vc-addons.php:1583
+msgid "Icon & Text"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2050
+msgid "general-picture-list-2"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2051 ../vc-addons/vc-addons.php:1586
+msgid "Content & icon layout (top, left, right)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2058 ../tinymce/shortcodes-config.php:2164
+#: ../vc-addons/vc-addons.php:723 ../vc-addons/vc-addons.php:1157
+#: ../vc-addons/vc-addons.php:1418 ../vc-addons/vc-addons.php:1594
+#: ../vc-addons/vc-addons.php:1733 ../vc-addons/vc-addons.php:1966
+#: ../vc-addons/vc-addons.php:2123 ../vc-addons/vc-addons.php:2162
+#: ../vc-addons/vc-addons.php:2201 ../vc-addons/vc-addons.php:2504
+msgid "Title"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2059 ../tinymce/shortcodes-config.php:2165
+#: ../vc-addons/vc-addons.php:1736
+msgid "Enter the title"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2064 ../tinymce/shortcodes-config.php:2170
+msgid "content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2065 ../tinymce/shortcodes-config.php:2171
+#: ../vc-addons/vc-addons.php:1597 ../vc-addons/vc-addons.php:1745
+msgid "Enter the content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2084 ../tinymce/shortcodes-config.php:2751
+#: ../vc-addons/vc-addons.php:2405
+msgid "Icon position"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2085
+msgid "Choose position of the icon"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2155 ../vc-addons/vc-addons.php:1722
+msgid "Box anim icon/text"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2156
+msgid "general-cube"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2157
+msgid "Anime content & icon on mouse over"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2196 ../vc-addons/vc-addons.php:1776
+msgid "Social Icon"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2197
+msgid "steadysets-icon-share"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2198 ../vc-addons/vc-addons.php:1779
+msgid "Add link to your favorite social network"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2207
+msgid "Social Type"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2208 ../vc-addons/vc-addons.php:1803
+msgid "Choose your social type"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2230
+msgid "Social url"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2231 ../vc-addons/vc-addons.php:1812
+msgid "Enter the social url"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2235
+msgid "Add a Social Icon"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2244 ../vc-addons/vc-addons.php:1825
+msgid "List"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2245
+msgid "general-bullet-list"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2246 ../vc-addons/vc-addons.php:1828
+msgid "Organise & style your bullet lists"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2253 ../vc-addons/vc-addons.php:1847
+msgid "Choose the text alignment of the list"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2263 ../vc-addons/vc-addons.php:1852
+msgid "Boxed List"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2269 ../vc-addons/vc-addons.php:1861
+msgid "List text color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2270 ../vc-addons/vc-addons.php:1864
+msgid ""
+"You can set a text color for the list.<br> If no color is chosen, the "
+"default text color of the theme will be set"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2280 ../vc-addons/vc-addons.php:1895
+msgid "List item content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2281 ../vc-addons/vc-addons.php:1898
+msgid "Type the content of the list item."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2286 ../vc-addons/vc-addons.php:1903
+msgid "Bullet item color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2287 ../vc-addons/vc-addons.php:1906
+msgid ""
+"You can set a color for each item bullet in the list.<br> If no color is "
+"chosen, the default text color of the theme will be set"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2291 ../vc-addons/vc-addons.php:1921
+msgid "Bullet item animation"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2292 ../vc-addons/vc-addons.php:1923
+msgid "Select the type of animation of the bullet on hover."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2308 ../vc-addons/vc-addons.php:1928
+msgid "Item custom bullet"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2309 ../vc-addons/vc-addons.php:1931
+msgid ""
+"Enter your list item bullet.<br>It can be a number, a special characters in "
+"HTML or everything you want."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2320
+msgid "Add item in list"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2329 ../vc-addons/vc-addons.php:1952
+msgid "Princing Table"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2330
+msgid "business-note-dollar"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2331
+msgid "Organise your offers in pricing column"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2337
+msgid "Number of table"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2338
+msgid "Select the number of pricing table."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2357
+msgid "Table Featured"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2358 ../vc-addons/vc-addons.php:1978
+msgid "Enable this allows to highlight the featured pricing table"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2363
+msgid "Table Title"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2364 ../vc-addons/vc-addons.php:1969
+msgid "Enter the title of the table."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2369
+msgid "Table Price"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2370 ../vc-addons/vc-addons.php:1987
+msgid "Enter the price of the table."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2375 ../vc-addons/vc-addons.php:1993
+msgid "Table Value"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2376 ../vc-addons/vc-addons.php:1996
+msgid "Enter the value (dollar, euro, ...) of the table."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2381 ../vc-addons/vc-addons.php:2001
+msgid "Table Per"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2382 ../vc-addons/vc-addons.php:2004
+msgid "Enter the per value (/mo, /years, ...) of the table."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2387
+msgid "Table Link Button"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2388 ../vc-addons/vc-addons.php:2013
+msgid ""
+"Enter the url link for the button table. If no url is set, no button will "
+"appear."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2392
+msgid "Table Button Target"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2402
+msgid "Table Button Text"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2403 ../vc-addons/vc-addons.php:2031
+msgid "Enter the button text of the table."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2408
+msgid "Table Featured Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2409
+msgid "Enter the featured content description"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2413
+msgid "Add Pricing Table"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2422 ../vc-addons/vc-addons.php:2051
+#: ../vc-addons/vc-addons.php:2107
+msgid "Tab"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2423
+msgid "steadysets-icon-folder"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2424 ../vc-addons/vc-addons.php:2054
+msgid "Organise your content with tabs"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2431
+msgid "Tabs Alignment"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2432 ../vc-addons/vc-addons.php:2073
+msgid "Choose the tabs alignment. Only works for horizontal layout tabs"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2442 ../vc-addons/vc-addons.php:2078
+msgid "Tabs overlay background color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2443 ../vc-addons/vc-addons.php:2081
+msgid "You can set a background color to the overlay tabs element"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2448 ../vc-addons/vc-addons.php:2086
+msgid "Tabs full width"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2449
+msgid "Strech tabs element to full width screen"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2458
+msgid "Tab Active"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2459
+msgid "Active tab on page load. (ONLY ONE TAB PER TABS)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2464
+msgid "Tab Title"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2465 ../vc-addons/vc-addons.php:2126
+msgid "Enter the title of the tab"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2470
+msgid "Tab Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2471
+msgid "Enter the content of the tab"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2475
+msgid "Add a Tab"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2484 ../vc-addons/vc-addons.php:2148
+msgid "Toggle"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2485 ../tinymce/shortcodes-config.php:2522
+msgid "fa-plus-square-o"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2486
+msgid "Organise your content with smart toggle"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2495
+msgid "Toggle Active"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2496
+msgid "Allows to active and display this toggle on page load"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2501
+msgid "Toggle Title"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2502 ../vc-addons/vc-addons.php:2165
+msgid "Enter the title of the toggle"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2507
+msgid "Toggle Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2508
+msgid "Enter the content of the toggle"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2512
+msgid "Add a Toggle"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2521 ../vc-addons/vc-addons.php:2187
+msgid "Accordion"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2523
+msgid "Show one content by one with jquery accordion"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2532
+msgid "Accordion Active"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2533
+msgid "Allows to active and display a accordion on page load"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2538
+msgid "Accordion Title"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2539 ../vc-addons/vc-addons.php:2204
+msgid "Enter the title of the accordion"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2544
+msgid "Accordion Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2545
+msgid "Enter the content of the accordion"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2551 ../vc-addons/vc-addons.php:2231
+msgid "Choose an icon if you want to display it before the accordion title."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2557
+msgid "Accordion icon color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2558 ../vc-addons/vc-addons.php:2221
+msgid ""
+"You can set a color to the title icon of the accordion.<br> If no color is "
+"chosen, the default text color of the theme will be set to the icon"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2562
+msgid "Add an Accordion"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2573 ../vc-addons/vc-addons.php:1407
+msgid "Progress Bar"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2574
+msgid "media-sliders-side"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2575 ../vc-addons/vc-addons.php:1410
+msgid "Animated progress bar to show off your skills"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2588
+msgid "Progress Bar percent"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2589
+msgid "<br>Choose the percent of the progess bar"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2598
+msgid "Progress Bar height"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2599
+msgid "<br>Choose an height for the progess bar"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2604
+msgid "Progress Bar title"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2605 ../vc-addons/vc-addons.php:1421
+msgid "Enter a title for the progress bar"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2610 ../vc-addons/vc-addons.php:1450
+msgid "Progress Bar Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2611 ../vc-addons/vc-addons.php:1453
+msgid "Choose a color for the progess bar"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2615
+msgid "Add Progress Bar"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2626 ../vc-addons/vc-addons.php:2245
+msgid "Pie Chart"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2627
+msgid "business-pie-chart "
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2628 ../vc-addons/vc-addons.php:2248
+msgid "Animated pie bar with percent or icon"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2637 ../vc-addons/vc-addons.php:2255
+msgid "Pie Chart Animation"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2638
+msgid "<br>Allows to animate pie chart when it becomes visible on screen"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2647
+msgid "Pie Chart Percent"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2648
+msgid "<br>Choose the percent of the pie chart"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2657
+msgid "Pie Chart Size"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2658
+msgid "<br>Choose a size for the pie chart"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2667
+msgid "Pie Chart Bar Width"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2668
+msgid "<br>Choose the line width pie chart"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2673 ../vc-addons/vc-addons.php:2299
+msgid "Pie Chart Bar Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2674 ../vc-addons/vc-addons.php:2302
+msgid "Choose a color for the pie chart bar"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2679 ../vc-addons/vc-addons.php:2307
+msgid "Pie Chart Background Bar Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2680 ../vc-addons/vc-addons.php:2310
+msgid "Choose a color for the pie chart bar background"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2686 ../vc-addons/vc-addons.php:2328
+msgid ""
+"If you want to add an icon at the center of the pie chart instead of the "
+"percentage value, choose an icon."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2692 ../vc-addons/vc-addons.php:2315
+msgid "Pie Chart Icon Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2693 ../vc-addons/vc-addons.php:2318
+msgid "Choose a color for the icon"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2697
+msgid "Add Pie Chart"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2706 ../vc-addons/vc-addons.php:2342
+msgid "Counter"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2707
+msgid "general-speedometer"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2708 ../vc-addons/vc-addons.php:2345
+msgid "Animated numerical counter"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2715
+msgid "Counter Alignment"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2716 ../vc-addons/vc-addons.php:2368
+msgid "Choose the counter alignment."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2726
+msgid "Counter Number"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2727 ../vc-addons/vc-addons.php:2377
+msgid "Enter the number to count."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2732
+msgid "Counter Number Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2733 ../vc-addons/vc-addons.php:2385
+msgid ""
+"You can set a color to the counter number.<br> If no color is chosen, the "
+"default text color of the theme will be set"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2738
+msgid "Counter Subject"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2739
+msgid "Enter the subject/title of the counter (e.g \"Cups of coffe\")."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2745 ../vc-addons/vc-addons.php:2426
+msgid "If you want to add an icon next to the counter choose an icon."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2752 ../vc-addons/vc-addons.php:1619
+#: ../vc-addons/vc-addons.php:2407
+msgid "Choose the icon position"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2761 ../vc-addons/vc-addons.php:2413
+msgid "Icon  Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2762
+msgid ""
+"You can set a color to the icon.<br> If no color is chosen, the default text "
+"color of the theme will be set"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2771
+msgid "Counter Speed"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2772
+msgid "<br>Set the time taken to count until your chosen number."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2783 ../vc-addons/vc-addons.php:2442
+msgid "Process Steps"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2784
+msgid "general-spanner"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2785 ../vc-addons/vc-addons.php:2445
+#: ../vc-addons/vc-addons.php:2494 ../vc-addons/vc-addons.php:2559
+#: ../vc-addons/vc-addons.php:2607
+msgid "Display your process step with infography"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2795 ../vc-addons/vc-addons.php:2459
+msgid "Process step Number"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2796
+msgid "<br>Set the number of step per slide"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2801 ../vc-addons/vc-addons.php:2470
+msgid "Process step color scheme"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2802 ../vc-addons/vc-addons.php:2472
+msgid "You can set the text color of the process step carousel"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2817
+msgid "Step title"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2818 ../vc-addons/vc-addons.php:2507
+msgid "Type the title of the step."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2823
+msgid "Step icon"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2824 ../vc-addons/vc-addons.php:2525
+msgid "Choose an icon for step."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2830 ../vc-addons/vc-addons.php:2531
+msgid "Step icon color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2831 ../vc-addons/vc-addons.php:2534
+msgid "You can set a color to the icon."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2836 ../vc-addons/vc-addons.php:2540
+msgid "Step Background image"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2837 ../vc-addons/vc-addons.php:2543
+msgid "Choose a background image of the current step (optional)."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2842 ../vc-addons/vc-addons.php:2513
+msgid "Step content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2843
+msgid "Type the content of the step."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2848
+msgid "Add a step in the process"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2857 ../vc-addons/vc-addons.php:2604
+msgid "Team Member"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2858 ../tinymce/shortcodes-config.php:2943
+msgid "li_user"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2859
+msgid "Show your team member in a carousel"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2860 ../tinymce/shortcodes-config.php:3027
+#: ../tinymce/shortcodes-config.php:3113 ../tinymce/shortcodes-config.php:3339
+#: ../tinymce/shortcodes-config.php:3342 ../tinymce/shortcodes-config.php:3398
+#: ../vc-addons/vc-addons.php:2820 ../vc-addons/vc-addons.php:2882
+#: ../vc-addons/vc-addons.php:2953 ../vc-addons/vc-addons.php:3034
+#: ../vc-addons/vc-addons.php:3125 ../vc-addons/vc-addons.php:3129
+#: ../vc-addons/vc-addons.php:3189 ../vc-addons/vc-addons.php:3279
+msgid "Slider"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2865 ../vc-addons/vc-addons.php:2572
+msgid "Team Member layout"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2866 ../vc-addons/vc-addons.php:2574
+msgid ""
+"Choose the type of layout.<br> Circle displays a team member image in a "
+"circle and with centered text.<br> CIRCLE LAYOUT MUST HAVE A TEAM MEMBER "
+"IMAGE WITH SQUARE RATIO (eg : 300px x 300px)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2879 ../vc-addons/vc-addons.php:2583
+msgid "Member max row number"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2880
+msgid ""
+"<br>The maximum number of rows member corrrespond to the number of member "
+"display on the screen for a windwos size of 1280px minimum."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2891 ../tinymce/shortcodes-config.php:2957
+#: ../vc-addons/vc-addons.php:2617 ../vc-addons/vc-addons.php:2710
+msgid "Team member name"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2892 ../tinymce/shortcodes-config.php:2958
+#: ../vc-addons/vc-addons.php:2620 ../vc-addons/vc-addons.php:2713
+msgid "Enter the team member name."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2897 ../tinymce/shortcodes-config.php:2963
+#: ../vc-addons/vc-addons.php:2626 ../vc-addons/vc-addons.php:2719
+msgid "Team member position"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2898 ../tinymce/shortcodes-config.php:2964
+#: ../vc-addons/vc-addons.php:2629 ../vc-addons/vc-addons.php:2722
+msgid "Enter the team member position."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2903 ../vc-addons/vc-addons.php:2635
+msgid "Team member description"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2904 ../vc-addons/vc-addons.php:2638
+msgid "Enter the team member description."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2909 ../tinymce/shortcodes-config.php:2951
+#: ../vc-addons/vc-addons.php:2643 ../vc-addons/vc-addons.php:2701
+msgid "Team member photo"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2910 ../tinymce/shortcodes-config.php:2952
+#: ../vc-addons/vc-addons.php:2646 ../vc-addons/vc-addons.php:2704
+msgid "Choose a team member photo (upload a photo or enter an image url)."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2915 ../tinymce/shortcodes-config.php:2981
+#: ../vc-addons/vc-addons.php:2659 ../vc-addons/vc-addons.php:2744
+msgid "Team member Facebook link"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2916 ../tinymce/shortcodes-config.php:2982
+#: ../vc-addons/vc-addons.php:2662 ../vc-addons/vc-addons.php:2747
+msgid "Enter the team member facebook page."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2921 ../tinymce/shortcodes-config.php:2975
+#: ../vc-addons/vc-addons.php:2667 ../vc-addons/vc-addons.php:2753
+msgid "Team member Twitter link"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2922 ../tinymce/shortcodes-config.php:2976
+#: ../vc-addons/vc-addons.php:2670 ../vc-addons/vc-addons.php:2756
+msgid "Enter the team member twitter page."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2927 ../tinymce/shortcodes-config.php:2987
+#: ../vc-addons/vc-addons.php:2675 ../vc-addons/vc-addons.php:2762
+msgid "Team member Google+ link"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2928 ../tinymce/shortcodes-config.php:2988
+msgid "Enter the team member google+ page."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2932
+msgid "Add a team member"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2942 ../vc-addons/vc-addons.php:2691
+msgid "Box team Member"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2944 ../vc-addons/vc-addons.php:2694
+msgid "Team member in a box (place it alone in a column)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2969 ../vc-addons/vc-addons.php:2727
+msgid "Team member URL"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2970 ../vc-addons/vc-addons.php:2730
+msgid "Enter the url to link to a page."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2993 ../vc-addons/vc-addons.php:2772
+msgid "Team member Linkedin link"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2994
+msgid "Enter the team member linkedin page."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:2999 ../vc-addons/vc-addons.php:2781
+msgid "Team member Pinterest link"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3000
+msgid "Enter the team member pinterest page."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3005 ../vc-addons/vc-addons.php:2790
+msgid "Team member Dribbble link"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3006
+msgid "Enter the team member dribble page."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3011
+msgid "Team member youtube link"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3012
+msgid "Enter the team member youtube page."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3024 ../vc-addons/vc-addons.php:2816
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3025
+msgid "steadysets-icon-users "
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3026 ../vc-addons/vc-addons.php:2819
+#: ../vc-addons/vc-addons.php:2881
+msgid "Testimonial carousel"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3032
+msgid "Testimonial Carousel AutoPlay"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3033
+msgid "Check this option if you want that the carousel testimonial autoPlay."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3042
+msgid "Testimonial carousel AutoPlay Speed"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3043
+msgid ""
+"<br>Choose a speed for the autoplay carousel testimonial. <br> Only works if "
+"autoplay option is activated."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3048
+msgid "Testimonial Carousel Pagination"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3049 ../tinymce/shortcodes-config.php:3135
+#: ../tinymce/shortcodes-config.php:3421
+msgid ""
+"Check this option if you want to display the bullet pagination of the "
+"carousel."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3054
+msgid "Testimonial Carousel Navigation"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3055 ../tinymce/shortcodes-config.php:3141
+#: ../tinymce/shortcodes-config.php:3370 ../tinymce/shortcodes-config.php:3427
+msgid "Check this option if you want to display arrows prev next navigation."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3066
+msgid "Testimonial Author Name"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3067 ../vc-addons/vc-addons.php:2893
+msgid "Enter the testimonial author name."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3072
+msgid "Testimonial Author Description"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3073 ../vc-addons/vc-addons.php:2902
+msgid ""
+"Enter the testimonial author description (like the position, website, "
+"activity,...)."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3078
+msgid "Testimonial Author Photo"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3079 ../vc-addons/vc-addons.php:2910
+msgid ""
+"Choose a testimonial author photo (upload a photo or enter an image url."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3084 ../vc-addons/vc-addons.php:2916
+msgid "Testimonial content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3085 ../vc-addons/vc-addons.php:2920
+msgid "Enter the testimonial content."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3090 ../vc-addons/vc-addons.php:2925
+msgid "Testimonial content Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3091 ../vc-addons/vc-addons.php:2928
+msgid "Choose a color for the testimonial content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3096
+msgid "Testimonial Author Description Color"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3097 ../vc-addons/vc-addons.php:2936
+msgid ""
+"Choose a color for the testimonial author description (By default, the hover "
+"color of the theme is activated)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3101
+msgid "Add a testimonial"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3110 ../vc-addons/vc-addons.php:2949
+msgid "Client Carousel"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3111
+msgid "general-jewel"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3112 ../vc-addons/vc-addons.php:2952
+msgid "Show your client logos in a carousel"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3118
+msgid "Client Carousel AutoPlay"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3119
+msgid "Check this option if you want that the carousel client autoPlay."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3128
+msgid "Client carousel AutoPlay Speed"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3129
+msgid ""
+"<br>Choose a speed for the autoplay carousel client. <br> Only works if "
+"autoplay option is activated."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3134
+msgid "Client Carousel Pagination"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3140
+msgid "Client Carousel Navigation"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3150 ../vc-addons/vc-addons.php:3001
+msgid "Client max row number"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3151
+msgid ""
+"<br>The maximum number of rows client corrrespond to the number of client "
+"image display on the screen for a windwos size of 1280px minimum. <br> Lower "
+"this number is, bigger the image is"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3156 ../vc-addons/vc-addons.php:3008
+msgid "Client Carousel grey image"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3157
+msgid ""
+"Check this option if you want that the image client appear in grey and "
+"become in color on hover."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3168 ../vc-addons/vc-addons.php:3041
+msgid "Client Image"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3169 ../vc-addons/vc-addons.php:3044
+msgid ""
+"Choose an image for of the client.<br> For a better render: client image "
+"must have the same size in height and width."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3174 ../vc-addons/vc-addons.php:3050
+msgid "Client URL"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3175 ../vc-addons/vc-addons.php:3053
+msgid "Enter the client URL (optional)."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3179
+msgid "Add a client"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3188 ../tinymce/shortcodes-config.php:3197
+#: ../vc-addons/vc-addons.php:222
+msgid "Image"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3189
+msgid "media-pic-fields"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3190
+msgid "Display image (with animated effect)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3198
+msgid "Choose an image or enter an image url"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3203
+msgid "Image Background"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3204
+msgid ""
+"Check this option if you want to display the image as a bacground to fill "
+"the current column or section."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3209
+msgid "Image Animation"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3228
+msgid "Image Animation Delay"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3240 ../vc-addons/vc-addons.php:3204
+msgid "Video"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3241
+msgid "media-controls-play"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3242 ../vc-addons/vc-addons.php:3207
+msgid "Display an hosted or embed video"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3255
+msgid "WEBM File URL "
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3261 ../vc-addons/vc-addons.php:3232
+msgid "OGV/OGG File URL"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3268 ../vc-addons/vc-addons.php:3244
+msgid ""
+"Paste the youtube link here if you want a youtube video (not he embed code "
+"iframe)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3274 ../vc-addons/vc-addons.php:3253
+msgid ""
+"Paste the vimeo link here if you want a vimeo video (not he embed code "
+"iframe)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3280
+msgid ""
+"Set a poster for the video for m4v/ogv file (Nedeed! It's displayed when the "
+"video format is not supported by the client browser)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3293 ../vc-addons/vc-addons.php:3066
+msgid "Audio"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3294
+msgid "media-music-note"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3295 ../vc-addons/vc-addons.php:3069
+msgid "Add a media song (mp3 or oga file)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3302 ../vc-addons/vc-addons.php:3075
+msgid "MP3 File URL"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3303 ../vc-addons/vc-addons.php:3078
+msgid "Please enter an URL or upload your .mp3 audio file"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3308
+msgid "OGA/OGG File URL "
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3309 ../vc-addons/vc-addons.php:3086
+msgid "Please enter an URL or upload your .oga/.ogg audio file"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3314 ../vc-addons/vc-addons.php:3100
+msgid "Artist Name"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3315 ../vc-addons/vc-addons.php:3103
+msgid "Please enter the artist name here."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3320 ../vc-addons/vc-addons.php:3109
+msgid "Song Name"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3321 ../vc-addons/vc-addons.php:3112
+msgid "Please enter the song name here."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3326 ../vc-addons/vc-addons.php:3091
+msgid "Audio Image"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3327 ../vc-addons/vc-addons.php:3094
+msgid "Audio Image Please enter an URL or upload the album image"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3340
+msgid "media-pic-ios-album"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3341 ../vc-addons/vc-addons.php:3128
+#: ../vc-addons/vc-addons.php:3188
+msgid "Place content inside horizontal slider"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3347
+msgid "Slider AutoPlay"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3348
+msgid "Check this option if you want that the slider autoPlay."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3357
+msgid "Slider AutoPlay Speed"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3358
+msgid ""
+"<br>Choose a speed for the autoplay slider. <br> Only works if autoplay "
+"option is activated."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3363 ../vc-addons/vc-addons.php:3157
+msgid "Slider Pagination"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3364
+msgid ""
+"Check this option if you want to display the bullet pagination of the slider."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3369 ../vc-addons/vc-addons.php:3165
+msgid "Slider Navigation"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3381
+msgid "Slider Content"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3382 ../vc-addons/vc-addons.php:3217
+msgid "Add any content you want. It Works with all shortcodes"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3386
+msgid "Add a slide"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3395 ../vc-addons/vc-addons.php:1788
+#: ../vc-addons/vc-addons.php:3275
+msgid "Twitter"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3396
+msgid "fa-twitter"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3397
+msgid "Display your last tweets in a carousel"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3404
+msgid "Twitter Carousel AutoPlay"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3405
+msgid "Check this option if you want that the carousel Twitter autoPlay."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3414
+msgid "Twitter carousel AutoPlay Speed"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3415
+msgid ""
+"<br>Choose a speed for the autoplay carousel Twitter. <br> Only works if "
+"autoplay option is activated."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3420
+msgid "Twitter Carousel Pagination"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3426
+msgid "Twitter Carousel Navigation"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3432 ../vc-addons/vc-addons.php:3320
+msgid "Twitter Name"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3433 ../vc-addons/vc-addons.php:3323
+msgid "Enter your twitter username"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3438 ../vc-addons/vc-addons.php:3328
+msgid "Comsumer Key"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3439 ../vc-addons/vc-addons.php:3331
+msgid "Enter your consumer key"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3444 ../vc-addons/vc-addons.php:3336
+msgid "Comsumer Secret"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3445 ../vc-addons/vc-addons.php:3339
+msgid "Enter your consumer secret"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3450 ../vc-addons/vc-addons.php:3344
+msgid "Access Token"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3451 ../vc-addons/vc-addons.php:3347
+msgid "Enter your access token"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3456 ../vc-addons/vc-addons.php:3352
+msgid "Access Secret"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3457 ../vc-addons/vc-addons.php:3355
+msgid "Enter your access secret"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3466 ../vc-addons/vc-addons.php:3364
+msgid "Twitter Feed Number"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3467
+msgid "<br>Choose the number of tweet to display"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3479
+msgid "Grid Blog/Portfolio"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3480
+msgid "steadysets-icon-grid"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3481 ../vc-addons/vc-addons.php:1106
+msgid "Show blog/works in a vertical or horizontal grid"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3488
+msgid "Grid Style"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3489
+msgid "Choose the type of grid (masonry or grid style)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3498
+msgid "Grid Content Type"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3499
+msgid "Choose the content type to display inside the grid"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3509
+msgid "Filter by category name"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3510
+msgid ""
+"If you want to filter the grid with a category name, please choose the "
+"category name from the drop down list. It will only works for post and "
+"portfolio, not the both at the same times."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3515
+msgid "Grid Force Post Element Size"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3516 ../vc-addons/vc-addons.php:1266
+msgid ""
+"If you want to force an unique size to every post element in the grid, "
+"select a size in the list"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3531
+msgid "Grid Force Portfolio Element Size"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3532 ../vc-addons/vc-addons.php:1280
+msgid ""
+"If you want to force an unique size to every portfolio element in the grid, "
+"select a size in the list"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3544
+msgid "Grid Portfolio Style"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3545 ../vc-addons/vc-addons.php:1292
+msgid "Select a thumbnail style for the portfolio items"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3556
+msgid "Grid Order By"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3557 ../vc-addons/vc-addons.php:1164
+msgid "Select the order of items in the grid."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3574
+msgid "Grid Post Number"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3575
+msgid "<br>Set the number of post to display inside the grid on load"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3580
+msgid "Grid Layout Horizontal"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3581 ../vc-addons/vc-addons.php:1181
+msgid "Check this option if you want to have an horizontal grid slider layout."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3590
+msgid "Grid Row Number"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3591
+msgid "<br>Set the number of row for the horizontal layout"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3596 ../vc-addons/vc-addons.php:1200
+msgid "Grid Toggle Layout"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3597 ../vc-addons/vc-addons.php:1203
+msgid ""
+"Check this option if you want to have the toggle button to switch between "
+"horizontal and vertical layout."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3602 ../vc-addons/vc-addons.php:1209
+msgid "Grid Controls"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3603 ../vc-addons/vc-addons.php:1212
+msgid ""
+"Check this option if you want to display the arrows control button and the "
+"bullet navigation."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3608 ../vc-addons/vc-addons.php:1224
+msgid "Grid pagination/load more"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3609 ../vc-addons/vc-addons.php:1226
+msgid ""
+"Select the type of pagination.<br>Pagination must be only use on portfolio "
+"or blog template page. Load more allows to load next set of post with ajax."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3619 ../vc-addons/vc-addons.php:1169
+msgid "Grid Filters"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3620 ../vc-addons/vc-addons.php:1172
+msgid ""
+"Check this option if you want to displays grid filters (filters correspond "
+"to blog/portfolio category."
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3629 ../vc-addons/vc-addons.php:1247
+msgid "Grid Element Ratio"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3630
+msgid ""
+"<br>Set the aspect ratio of the element in the grid (Ratio=Height/Width)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3639 ../vc-addons/vc-addons.php:1235
+msgid "Grid Gutter Width"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3640
+msgid ""
+"<br>Set the gutter width of the grid (gutter = distance between each elemet "
+"in the grid)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3649 ../vc-addons/vc-addons.php:1302
+msgid "Grid Column Number (width > 1600px)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3650
+msgid "<br>Set the number of column in the grid for a window width > 1600px"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3659 ../vc-addons/vc-addons.php:1314
+msgid "Grid Column Number (width < 1600px)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3660
+msgid "<br>Set the number of column in the grid for a window width < 1600px"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3669 ../vc-addons/vc-addons.php:1326
+msgid "Grid Column Number (width < 1280px)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3670
+msgid "<br>Set the number of column in the grid for a window width < 1280px"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3679 ../vc-addons/vc-addons.php:1338
+msgid "Grid Column Number (width < 1000px)"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3680
+msgid "<br>Set the number of column in the grid for a window width < 1000px"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3692
+msgid "Widget"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3693
+msgid "general-jigsaw"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3694
+msgid "Add a widget everywhere you want!"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3701
+msgid "Choose a widget"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3707
+msgid "Widget instance"
+msgstr ""
+
+#: ../tinymce/shortcodes-config.php:3708
+msgid ""
+"The instance correspond to the widget's instance settings.<br>\n"
+"The default widget instances are the folowing and are differents for each "
+"widget:<br><br>\n"
+"\n"
+"<u>Archives widget:</u><br>\n"
+"'title=title&count=1&dropdown=1'<br><br>\n"
+"<u>Calendar widget:</u><br>\n"
+"'title=title'<br><br>\n"
+"<u>Categories widget</u><br>\n"
+"'title=title&count=1&hierarchical=1&dropdown=1'<br><br>\n"
+"<u>Links widget:</u><br>\n"
+"'title=title&category=1,2&description=1&rating=1&images=1&name=1'<br><br>\n"
+"<u>Meta widget:</u><br>\n"
+"'title=title'<br><br>\n"
+"<u>Pages widget:</u><br>\n"
+"'title=title&sortby=menu_order&exclude=null'<br><br>\n"
+"<u>Recent Comments widget:</u><br>\n"
+"'title=title&number=5'<br><br>\n"
+"<u>Recent Posts widget:</u><br>\n"
+"'title=title&number=5'<br><br>\n"
+"<u>RSS widget:</u><br>\n"
+"'title=title&url='http://yourwebsite.com'<br><br>\n"
+"<u>Search widget:</u><br>\n"
+"title=title'<br><br>\n"
+"<u>Tag Cloud widget:</u><br>\n"
+"'title=title&taxonomy=post_tag'<br><br>\n"
+"<u>Text widget:</u><br>\n"
+"no argument needed<br><br>\n"
+"<u>Recent Portfolio widget (themeone):</u><br>\n"
+"'title=title&postType=portfolio&postNb=5<br><br>\n"
+"<u>Most Liked Post (themeone):</u><br>\n"
+"'title=title&postType=portfolio&postNb=5&postDate=true<br><br>\n"
+"\n"
+"Please see at for more informations about insances: <a href=\"http://codex."
+"wordpress.org/Function_Reference/the_widget\">Wordpress widget instances</a>"
+msgstr ""
+
+#: ../tinymce/shortcodes-popup.php:8
+msgid "Choose Shortcode"
+msgstr ""
+
+#: ../tinymce/shortcodes-popup.php:9
+msgid "Loading"
+msgstr ""
+
+#: ../tinymce/shortcodes-popup.php:68
+msgid "Insert"
+msgstr ""
+
+#: ../tinymce/shortcodes-processing.php:1645
+msgid "Email"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:81 ../vc-addons/vc-addons.php:93
+msgid "Section Layout"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:84 ../vc-addons/vc-addons.php:96
+msgid "Boxed"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:85 ../vc-addons/vc-addons.php:97
+#: ../vc-addons/vc-addons.php:1016
+msgid "Full width"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:87 ../vc-addons/vc-addons.php:99
+msgid "Choose the type of layout. In most of case you should use boxed layout."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:105 ../vc-addons/vc-addons.php:113
+msgid "Equal height columns"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:107 ../vc-addons/vc-addons.php:115
+msgid "equal_height"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:108 ../vc-addons/vc-addons.php:116
+msgid ""
+"Check this option if you want to have all children columns at the same height"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:121 ../vc-addons/vc-addons.php:133
+msgid "Text Color Scheme"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:125 ../vc-addons/vc-addons.php:137
+msgid "Dark"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:126 ../vc-addons/vc-addons.php:138
+msgid "Light"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:128 ../vc-addons/vc-addons.php:140
+msgid ""
+"You can set a text color scheme for the section. If no color is chosen, the "
+"default text color of the theme will be set. If you didn't choose a "
+"background color, you will probably don't need to apply a text color"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:149 ../vc-addons/vc-addons.php:162
+#: ../vc-addons/vc-addons.php:256 ../vc-addons/vc-addons.php:401
+#: ../vc-addons/vc-addons.php:443 ../vc-addons/vc-addons.php:660
+#: ../vc-addons/vc-addons.php:756 ../vc-addons/vc-addons.php:860
+#: ../vc-addons/vc-addons.php:1612 ../vc-addons/vc-addons.php:1841
+#: ../vc-addons/vc-addons.php:2067 ../vc-addons/vc-addons.php:2362
+msgid "Left"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:150 ../vc-addons/vc-addons.php:163
+#: ../vc-addons/vc-addons.php:402 ../vc-addons/vc-addons.php:444
+#: ../vc-addons/vc-addons.php:661 ../vc-addons/vc-addons.php:757
+#: ../vc-addons/vc-addons.php:861 ../vc-addons/vc-addons.php:1842
+#: ../vc-addons/vc-addons.php:2068 ../vc-addons/vc-addons.php:2363
+msgid "Center"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:151 ../vc-addons/vc-addons.php:164
+#: ../vc-addons/vc-addons.php:257 ../vc-addons/vc-addons.php:403
+#: ../vc-addons/vc-addons.php:445 ../vc-addons/vc-addons.php:662
+#: ../vc-addons/vc-addons.php:758 ../vc-addons/vc-addons.php:862
+#: ../vc-addons/vc-addons.php:1614 ../vc-addons/vc-addons.php:1843
+#: ../vc-addons/vc-addons.php:2069 ../vc-addons/vc-addons.php:2364
+msgid "Right"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:153 ../vc-addons/vc-addons.php:166
+#: ../vc-addons/vc-addons.php:405 ../vc-addons/vc-addons.php:447
+msgid "Choose the text alignment"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:171
+msgid "Top Section Decoration"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:175 ../vc-addons/vc-addons.php:198
+msgid "Slope Left"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:176 ../vc-addons/vc-addons.php:199
+msgid "Slope Right"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:177 ../vc-addons/vc-addons.php:200
+msgid "Rounded Outer"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:178 ../vc-addons/vc-addons.php:201
+msgid "Rounded Inner"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:179 ../vc-addons/vc-addons.php:202
+msgid "Triangle Outer"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:180 ../vc-addons/vc-addons.php:203
+msgid "Triangle Inner"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:181 ../vc-addons/vc-addons.php:204
+msgid "Arrow"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:182 ../vc-addons/vc-addons.php:205
+#: ../vc-addons/vc-addons.php:2570
+msgid "Circle"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:183 ../vc-addons/vc-addons.php:206
+msgid "Clouds"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:184 ../vc-addons/vc-addons.php:207
+msgid "circle"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:185 ../vc-addons/vc-addons.php:208
+msgid "Triangle Pattern"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:186 ../vc-addons/vc-addons.php:209
+msgid "Half Circle Pattern"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:194
+msgid "Bottom Section Decoration"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:217 ../vc-addons/vc-addons.php:233
+#: ../vc-addons/vc-addons.php:243 ../vc-addons/vc-addons.php:252
+#: ../vc-addons/vc-addons.php:265 ../vc-addons/vc-addons.php:278
+#: ../vc-addons/vc-addons.php:288 ../vc-addons/vc-addons.php:298
+#: ../vc-addons/vc-addons.php:308 ../vc-addons/vc-addons.php:318
+#: ../vc-addons/vc-addons.php:328 ../vc-addons/vc-addons.php:338
+#: ../vc-addons/vc-addons.php:348 ../vc-addons/vc-addons.php:358
+#: ../vc-addons/vc-addons.php:368 ../vc-addons/vc-addons.php:383
+msgid "Layout options"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:218
+msgid "Background Style"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:221 ../vc-addons/vc-addons.php:1155
+#: ../vc-addons/vc-addons.php:1219
+msgid "None"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:223
+msgid "Side Image"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:224
+msgid "Vimeo Video"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:225
+msgid "YouTube Video"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:226
+msgid "Hosted Video"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:228
+msgid "Select what kind of background would you like to set for this row."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:236
+msgid "parallax"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:237
+msgid "Check this box "
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:246
+msgid "Upload or select background image from media gallery."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:253
+msgid "Side Image Position"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:259
+msgid "Choose the image position in the row (left or right position)"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:266
+msgid "Background Image Repeat"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:269
+msgid "No Repeat"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:270
+msgid "Repeat"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:272
+msgid "Options to control repeatation of the background image."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:281
+msgid "blur"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:282
+msgid "Check this option if you want to apply a blur effect on your image."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:289
+msgid "Placehoder Image for the video"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:292
+msgid ""
+"Select the placehoder image that will be display while video is loading."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:299
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:302
+msgid ""
+"Enter your video URL. You can upload a video through <a href='/wp-admin/"
+"media-new.php' target='_blank'>WordPress Media Library</a>, if not done "
+"already."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:309
+msgid "Youtube URL"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:312
+msgid ""
+"Enter YouTube url. Example - YouTube (https://www.youtube.com/watch?"
+"v=tSqJIIcxKZM) "
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:319
+msgid "M4V/MP4 video file"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:322
+msgid "Upload or select your hosted video (M4V/MP4 format)."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:329
+msgid "OGV/OGG video file"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:332
+msgid "Upload or select your hosted video (OGV/OGG format)."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:339
+msgid "Webm video file"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:342
+msgid "Upload or select your hosted video (Webm format)."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:349
+msgid "Background Overlay"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:351
+msgid "overlay"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:352
+msgid "Hide or Show overlay on background images."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:359
+msgid "Overlay Background Pattern"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:362
+msgid "Upload or select background pattern overlay from media gallery."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:369
+msgid "Overlay Color"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:372
+msgid "Select color for background overlay."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:384
+msgid "Overlay Opacity"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:386
+msgid "Set an opacity to the background overlay."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:414 ../vc-addons/vc-addons.php:456
+msgid "from-left"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:415 ../vc-addons/vc-addons.php:457
+msgid "from-right"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:416 ../vc-addons/vc-addons.php:458
+msgid "from-top"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:417 ../vc-addons/vc-addons.php:459
+msgid "from-bottom"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:418 ../vc-addons/vc-addons.php:460
+msgid "grow-in"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:419 ../vc-addons/vc-addons.php:461
+msgid "flip-in"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:432 ../vc-addons/vc-addons.php:474
+msgid ""
+"It Allows to apply a delay when the column is reach before to display it "
+"with an animation"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:600
+msgid "themeone_spacer"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:614 ../vc-addons/vc-addons.php:689
+#: ../vc-addons/vc-addons.php:1443
+msgid "Height"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:616
+msgid "Choose a spacer height in px."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:620
+msgid "Class"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:637
+msgid "themeone_divider"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:647
+msgid "Solid"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:648
+msgid "Dashed"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:649
+msgid "Dotted"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:652
+msgid "Style"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:665 ../vc-addons/vc-addons.php:1617
+msgid "Position"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:667
+msgid "Choose a position for the divider"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:677 ../vc-addons/vc-addons.php:885
+#: ../vc-addons/vc-addons.php:2292
+msgid "Width"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:679
+msgid "Choose a divider width in %"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:691
+msgid "Choose a divider height in px"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:697 ../vc-addons/vc-addons.php:768
+#: ../vc-addons/vc-addons.php:1375
+msgid "Color"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:713
+msgid "themeone_header"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:725
+msgid "Your header title"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:732
+msgid "Subtitle"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:748 ../vc-addons/vc-addons.php:1801
+msgid "Type"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:760 ../vc-addons/vc-addons.php:864
+#: ../vc-addons/vc-addons.php:2071 ../vc-addons/vc-addons.php:2366
+msgid "Alignment"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:778 ../vc-addons/vc-addons.php:874
+msgid "decor"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:814
+msgid "themeone_quote"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:850
+msgid "themeone_pull_quote"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:872 ../vc-addons/vc-addons.php:1039
+msgid "Border"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:875
+msgid "check this option to add a top and bottom border to the pull quote"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:887
+msgid "Choose a width of the pull quote in %"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:910
+msgid "Type Writer"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:927
+msgid "Choose the pause time in ms"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:942
+msgid "Text"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:944
+msgid "Professional;Creative;Passionate"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:945
+msgid ""
+"Enter your word/sentences. Each word/sentence need to be separated by a "
+"semicolon (e.g: Professional;Creative;Passionate )"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:970 ../vc-addons/vc-addons.php:2028
+msgid "Button Text"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:973
+msgid "Add the button's text."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:974 ../vc-addons/vc-addons.php:983
+#: ../vc-addons/vc-addons.php:995
+msgid "General"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:979 ../vc-addons/vc-addons.php:1809
+msgid "URL"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:989 ../vc-addons/vc-addons.php:2018
+msgid "_self"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:990 ../vc-addons/vc-addons.php:2019
+msgid "_blank"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:992
+msgid "Target"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1001
+msgid "Tiny"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1002 ../vc-addons/vc-addons.php:1478
+#: ../vc-addons/vc-addons.php:1625
+msgid "Small"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1003 ../vc-addons/vc-addons.php:1479
+#: ../vc-addons/vc-addons.php:1626
+msgid "Regular"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1004 ../vc-addons/vc-addons.php:1480
+#: ../vc-addons/vc-addons.php:1627
+msgid "Large"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1007 ../vc-addons/vc-addons.php:1485
+#: ../vc-addons/vc-addons.php:1632 ../vc-addons/vc-addons.php:2280
+msgid "Size"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1010 ../vc-addons/vc-addons.php:1021
+#: ../vc-addons/vc-addons.php:1033 ../vc-addons/vc-addons.php:1044
+msgid "Styles"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1015
+msgid "Standard"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1026
+msgid "Fully rounded"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1027
+msgid "Rounded"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1028 ../vc-addons/vc-addons.php:1276
+#: ../vc-addons/vc-addons.php:2569
+msgid "Square"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1038
+msgid "Full background"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1053 ../vc-addons/vc-addons.php:1062
+#: ../vc-addons/vc-addons.php:1504 ../vc-addons/vc-addons.php:1513
+#: ../vc-addons/vc-addons.php:1522 ../vc-addons/vc-addons.php:1643
+#: ../vc-addons/vc-addons.php:1652 ../vc-addons/vc-addons.php:1661
+msgid "Colors"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1069 ../vc-addons/vc-addons.php:1078
+msgid "animate"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1071 ../vc-addons/vc-addons.php:1080
+#: ../vc-addons/vc-addons.php:1532 ../vc-addons/vc-addons.php:1541
+#: ../vc-addons/vc-addons.php:1560 ../vc-addons/vc-addons.php:1671
+#: ../vc-addons/vc-addons.php:1680 ../vc-addons/vc-addons.php:1699
+msgid "Animations"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1089 ../vc-addons/vc-addons.php:1569
+#: ../vc-addons/vc-addons.php:1708 ../vc-addons/vc-addons.php:1762
+#: ../vc-addons/vc-addons.php:1939
+msgid "Select an icon"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1090 ../vc-addons/vc-addons.php:1570
+#: ../vc-addons/vc-addons.php:1709
+msgid "Icons"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1103
+msgid "Mobius Grid"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1117
+msgid "Number of elements in the grid"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1119
+msgid "Set the number of post to display inside the grid on load"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1125
+msgid "grid"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1126
+msgid "Masonry"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1130
+msgid "Choose the type of grid (masonry or grid style"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1136
+msgid "Portfolio"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1137
+msgid "Blog"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1138
+msgid "Blog & Portfolio"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1140
+msgid "Content Type"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1142
+msgid "Choose the content type to display inside the grid)"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1147
+msgid "Filter by category"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1149
+msgid "Choose a category"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1156
+msgid "Custom Order"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1158
+msgid "Name Slug"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1159
+msgid "Date"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1160
+msgid "Random"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1162
+msgid "Order By"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1171
+msgid "filters"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1173 ../vc-addons/vc-addons.php:1182
+#: ../vc-addons/vc-addons.php:1194 ../vc-addons/vc-addons.php:1204
+#: ../vc-addons/vc-addons.php:1213
+msgid "Grid Styles"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1178
+msgid "Horizontal Layout"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1180
+msgid "true"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1191
+msgid "Row Number"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1193
+msgid "Set the number of row for the horizontal layout"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1202
+msgid "toggle"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1211
+msgid "controls"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1220
+msgid "Load More ajax"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1221
+msgid "Pagination number"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1237
+msgid ""
+"Set the gutter width of the grid (gutter = distance between each elemet in "
+"the grid"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1238 ../vc-addons/vc-addons.php:1250
+#: ../vc-addons/vc-addons.php:1267 ../vc-addons/vc-addons.php:1281
+#: ../vc-addons/vc-addons.php:1293
+msgid "Element Styles"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1249
+msgid "Set the aspect ratio of the element in the grid (Ratio=Height/Width)"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1256 ../vc-addons/vc-addons.php:1274
+msgid "Wide"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1257
+msgid "Wide center"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1258 ../vc-addons/vc-addons.php:1275
+msgid "Tall"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1259
+msgid "Tall center"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1260
+msgid "Square left"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1261
+msgid "Square top"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1262
+msgid "Square center"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1264
+msgid "Force Post Element Size"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1273
+msgid "Normal"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1278
+msgid "Force Portfolio Element Size"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1286
+msgid "Standard Style"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1287
+msgid "Bottom Title Style"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1288
+msgid "Centered title & category"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1290
+msgid "Portfolio Style"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1304
+msgid "Set the number of column in the grid for a window width > 1600px"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1305 ../vc-addons/vc-addons.php:1317
+#: ../vc-addons/vc-addons.php:1329 ../vc-addons/vc-addons.php:1341
+msgid "Columns Settings"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1316
+msgid "Set the number of column in the grid for a window width < 1600px"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1328
+msgid "Set the number of column in the grid for a window width < 1280px"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1340
+msgid "Set the number of column in the grid for a window width < 1000px"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1368
+msgid "Your tooltip content"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1386 ../vc-addons/vc-addons.php:1394
+#, php-format
+msgid ""
+"Enter the top position in percent. The position is absolute to the parent "
+"container of the tooltip.<br><strong>(Value can be in % or px)</strong>"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1431 ../vc-addons/vc-addons.php:2268
+msgid "Percent"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1433
+msgid "Choose the percent of the progess bar"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1445
+msgid "Choose an height for the progess bar"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1481 ../vc-addons/vc-addons.php:1628
+msgid "Big"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1482 ../vc-addons/vc-addons.php:1629
+msgid "Huge"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1492
+msgid "Inline Icon"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1494
+msgid "inline"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1509 ../vc-addons/vc-addons.php:1648
+msgid "Background"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1511 ../vc-addons/vc-addons.php:1539
+#: ../vc-addons/vc-addons.php:1650 ../vc-addons/vc-addons.php:1678
+msgid "iconbg"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1528 ../vc-addons/vc-addons.php:1667
+msgid "Spinning Animation"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1530 ../vc-addons/vc-addons.php:1555
+#: ../vc-addons/vc-addons.php:1669 ../vc-addons/vc-addons.php:1694
+#: ../vc-addons/vc-addons.php:1919
+msgid "rotate"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1537 ../vc-addons/vc-addons.php:1676
+msgid "Background Animation"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1548 ../vc-addons/vc-addons.php:1687
+#: ../vc-addons/vc-addons.php:1912
+msgid "Flash"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1549 ../vc-addons/vc-addons.php:1688
+#: ../vc-addons/vc-addons.php:1913
+msgid "Shake"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1550 ../vc-addons/vc-addons.php:1689
+#: ../vc-addons/vc-addons.php:1914
+msgid "Bounce"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1551 ../vc-addons/vc-addons.php:1690
+#: ../vc-addons/vc-addons.php:1915
+msgid "Tada"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1552 ../vc-addons/vc-addons.php:1691
+#: ../vc-addons/vc-addons.php:1916
+msgid "Swing"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1553 ../vc-addons/vc-addons.php:1692
+#: ../vc-addons/vc-addons.php:1917
+msgid "Wobble"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1554 ../vc-addons/vc-addons.php:1693
+#: ../vc-addons/vc-addons.php:1918
+msgid "Pulse"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1557 ../vc-addons/vc-addons.php:1696
+msgid "Hover Animation"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1596
+msgid "Your title"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1605
+msgid ""
+"Phasellus enim libero, blandit vel sapien vitae, condimentum ultricies magna "
+"estasente et. Quisque euismod orci ut et lobortis aliquam."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1613
+msgid "Top"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1725
+msgid "Animzted content & icon on mouse over"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1787
+msgid "Facebook"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1789
+msgid "Google+"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1790
+msgid "Linkedin"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1791
+msgid "Dribbble"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1792
+msgid "Pinterest"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1793
+msgid "Instagram"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1794
+msgid "Youtube"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1795
+msgid "Vimeo"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1796
+msgid "Flickr"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1797
+msgid "Github"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1798
+msgid "Stackoverflow"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1799
+msgid "Stackexchange"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1854
+msgid "boxed"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1883
+msgid "List item"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1886
+msgid "Item for list element only"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1955
+msgid "Add table column to current pricing holder"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1975
+msgid "Featured"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1977 ../vc-addons/vc-addons.php:2173
+msgid "type"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:1984
+msgid "Price"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2010
+msgid "Link"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2088
+msgid "full"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2110 ../vc-addons/vc-addons.php:2151
+#: ../vc-addons/vc-addons.php:2190
+msgid "Organise your content with tab"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2132 ../vc-addons/vc-addons.php:2210
+msgid "Active"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2134 ../vc-addons/vc-addons.php:2212
+msgid "active"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2171
+msgid "Activated"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2218
+msgid "Icon color"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2257
+msgid "anim"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2270
+msgid "Choose the percent of the pie chart"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2282
+msgid "Choose a size for the pie chart"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2294
+msgid "Choose the line width pie chart"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2353
+msgid "Subject"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2356
+msgid "Enter the subject/title of the counter (e.g 'Cups of coffe')"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2374
+msgid "Number"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2382
+msgid "Number Color"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2395
+msgid "Speed"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2397
+msgid "Set the time taken to count until your chosen number."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2402
+msgid "Before content"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2403
+msgid "After content"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2416
+msgid ""
+"You can set a color to the icon. If no color is chosen, the default text "
+"color of the theme will be set"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2461
+msgid "Set the number of step per slide"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2467
+msgid "Light Text"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2468
+msgid "Dark Text"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2491
+msgid "Process Step"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2516
+msgid "Type the content of the step.)"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2556
+msgid "Team Members"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2585
+msgid ""
+"The maximum number of rows member corrrespond to the number of member "
+"display on the screen for a windwos size of 1280px minimum."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2651
+msgid "Team member email"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2654 ../vc-addons/vc-addons.php:2738
+msgid "Enter the team member email."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2678 ../vc-addons/vc-addons.php:2765
+msgid "Enter the team member Google+ page."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2735
+msgid "Team member Email"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2739 ../vc-addons/vc-addons.php:2748
+#: ../vc-addons/vc-addons.php:2757 ../vc-addons/vc-addons.php:2766
+#: ../vc-addons/vc-addons.php:2776 ../vc-addons/vc-addons.php:2785
+#: ../vc-addons/vc-addons.php:2794 ../vc-addons/vc-addons.php:2803
+msgid "Social Links"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2775
+msgid "Enter the team member Linkedin page."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2784
+msgid "Enter the team member Pinterest page."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2793
+msgid "Enter the team member Dribbble page."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2799
+msgid "Team member Youtube link"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2802
+msgid "Enter the team member Youtube page."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2829
+msgid "AutoPlay Carousel"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2831 ../vc-addons/vc-addons.php:2964
+#: ../vc-addons/vc-addons.php:3140 ../vc-addons/vc-addons.php:3286
+msgid "autoplay"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2841 ../vc-addons/vc-addons.php:2974
+msgid "Carousel AutoPlay Speed"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2843
+msgid ""
+"Choose a speed for the autoplay carousel testimonial. <br> Only works if "
+"autoplay option is activated."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2848 ../vc-addons/vc-addons.php:2981
+msgid "Carousel Pagination"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2850 ../vc-addons/vc-addons.php:2983
+#: ../vc-addons/vc-addons.php:3159 ../vc-addons/vc-addons.php:3305
+msgid "page"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2856 ../vc-addons/vc-addons.php:2989
+msgid "Carousel Navigation"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2858 ../vc-addons/vc-addons.php:2991
+#: ../vc-addons/vc-addons.php:3167 ../vc-addons/vc-addons.php:3313
+msgid "nav"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2878
+msgid "Testimonial"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2890
+msgid "Author Name"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2899
+msgid "Author Description"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2907
+msgid "Author Photo"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2933
+msgid "Author Description Color"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2962 ../vc-addons/vc-addons.php:3284
+msgid "Carousel AutoPlay"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:2976
+msgid ""
+"Choose a speed for the autoplay carousel client. <br> Only works if autoplay "
+"option is activated."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:3003
+msgid ""
+"The maximum number of rows client corrrespond to the number of client image "
+"display on the screen for a windwos size of 1280px minimum. <br> Lower this "
+"number is, bigger the image is"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:3010
+msgid "grey"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:3030
+msgid "Client"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:3033
+msgid "Client image and url"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:3083
+msgid "OGA/OGG File URL"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:3138
+msgid "AutoPlay"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:3150 ../vc-addons/vc-addons.php:3296
+msgid "AutoPlay Speed"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:3152
+msgid ""
+"Choose a speed for the autoplay slider. <br> Only works if autoplay option "
+"is activated."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:3185
+msgid "Slide"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:3223
+msgid "WEBM File URL"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:3262
+msgid ""
+"Set a poster for the video for m4v/ogv file (Nedeed! It\\'s displayed when "
+"the video format is not supported by the client browser)"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:3278
+msgid "Display your last tweets in a carousel)"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:3298
+msgid ""
+"Choose a speed for the autoplay carousel Twitter. <br> Only works if "
+"autoplay option is activated."
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:3303
+msgid "Twitter Pagination"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:3311
+msgid "Twitter Navigation"
+msgstr ""
+
+#: ../vc-addons/vc-addons.php:3366
+msgid "Choose the number of tweet to display"
+msgstr ""

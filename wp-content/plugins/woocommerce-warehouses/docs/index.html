@@ -1,0 +1,324 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<head lang="en">
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>WooCommerce Warehouses Plugin Documentation</title>
+<!-- Framework CSS -->
+<link rel="stylesheet" href="assets/blueprint-css/screen.css"
+	type="text/css" media="screen, projection">
+<link rel="stylesheet" href="assets/blueprint-css/print.css"
+	type="text/css" media="print">
+<!--[if lt IE 8]><link rel="stylesheet" href="assets/blueprint-css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+<link rel="stylesheet"
+	href="assets/blueprint-css/plugins/fancy-type/screen.css"
+	type="text/css" media="screen, projection">
+<style type="text/css" media="screen">
+p, table, hr, .box {
+	margin-bottom: 25px;
+}
+
+.box p {
+	margin-bottom: 10px;
+}
+</style>
+</head>
+
+
+<body>
+	<div class="container">
+
+		<h3 class="center alt">&ldquo;WooCommerce Warehouses
+			Plugin&rdquo; Documentation by &ldquo;Hellodev&rdquo; v1.0</h3>
+
+		<hr>
+
+		<h1 class="center">WooCommerce Warehouses Plugin</h1>
+
+		<div class="borderTop">
+			<div class="span-6 colborder info prepend-1">
+				<p class="prepend-top">
+					<strong> By: Hellodev<br> Email: <a
+						href="mailto:hi@hellodev.us">hi@hellodev.us</a>
+					</strong>
+				</p>
+			</div>
+			<!-- end div .span-6 -->
+
+			<div class="span-12 last">
+				<p class="prepend-top append-0">
+					Thank you for purchasing this plugin. If you have any questions
+					that are beyond the scope of this help file, please feel free to
+					<a href="http://themeforest.net/user/USERNAME">email us</a>. 
+				</p>
+			</div>
+		</div>
+		<!-- end div .borderTop -->
+
+		<hr>
+
+		<h2 id="toc" class="alt">Table of Contents</h2>
+		<ol class="alpha">
+			<li><a href="#features">Features Overview</a></li>
+			<li><a href="#installation">Installation Guide</a></li>
+			<li><a href="#warehouses">Warehouses management</a></li>
+			<li><a href="#stocks">Stock management</a></li>
+			<li><a href="#backendorders">Backend orders</a></li>
+			<li><a href="#warehousetowarehouse">Warehouse to warehouse
+					stock transfer</a></li>
+			<li><a href="#stockusage">Frontend stock usage priority</a></li>
+			<li><a href="#logs">Stock log</a></li>
+			<li><a href="#settings">Plugin Settings</a></li>
+			<li><a href="#capabilities">Capabilities</a></li>
+			<li><a href="#credits">Sources and Credits</a></li>
+		</ol>
+
+		<hr>
+
+		<h3 id="features">
+			<strong>A) Features Overview</strong> - <a href="#toc">top</a>
+		</h3>
+
+		<p>This plugin adds the following features to WooCommerce:
+		<ul>
+			<li>Multiple warehouses.</li>
+			<li>Stock management.</li>
+			<li>Stock movement log.</li>
+			<li>Warehouse to warehouse stock transfer.</li>
+			<li>Stock usage priorities by warehouse (global and per item
+				priorities).</li>
+			<li>Backend orders with warehouse stock usage.</li>
+			<li>Handles both products and product variations.</li>
+			<li>Note: no 3rd party service necessary.</li>
+		</ul>
+		</p>
+
+		<hr>
+
+		<h3 id="installation">
+			<strong>B) Installation Guide</strong> - <a href="#toc">top</a>
+		</h3>
+		<h4>
+			<strong>Manual installation</strong>
+		</h4>
+		<p align="justify">
+			The manual installation method involves downloading this plugin and
+			uploading it to your webserver via your favourite FTP application.
+			The WordPress codex contains [<a
+				href="http://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation">instructions
+				on how to do this here</a>].
+		</p>
+		<hr>
+
+		<h3 id="warehouses">
+			<strong>C) Warehouses management</strong> - <a href="#toc">top</a>
+		</h3>
+		<p align="justify">
+			To add your warehouse you need to select <strong>Warehouses
+				> Add Warehouse</strong>. Fill the form with all the information and press
+			"Save Warehouse" to store it. If you want to use frontend stock
+			reduction priorities please read <a href="#stockusage">this</a> part
+			of the documentation.
+		</p>
+		<p align="justify">
+			The list of all the warehouses is available in <strong>Warehouses
+				> Warehouses</strong>. The list view shows all the info about the warehouses. To <strong>edit</strong> press the Warehouse
+			ID number, it will take you to the edit page.
+		</p>
+		<hr>
+
+		<h3 id="stocks">
+			<strong>D) Stock management</strong> - <a href="#toc">top</a>
+		</h3>
+		<p align="justify">
+			This feature is handled inside the product tab. You need to go to <strong>Products
+				> Products > Select a product to edit > Product Data > Inventory >
+				Warehouse Stocks Plugin Options - List of warehouses</strong> to manage the
+			inventory stock of your product.
+		</p>
+		<p align="justify">
+			If it is a variation, you need to go to <strong>Products >
+				Products > Select a product to edit > Product Data > Variations >
+				Select the variation you desire > Warehouse Stocks Plugin Options -
+				List of warehouses</strong>.
+		</p>
+		<p align="justify">The total stock amount between all warehouses
+			is handled by this plugin. You do not need to worry about this.</p>
+		<hr>
+
+		<h3 id="stocks">
+			<strong>D) Stock logs</strong> - <a href="#toc">top</a>
+		</h3>
+		<p align="justify">
+			This feature is handled inside the product tab. You need to go to <strong>Products
+				> Products > Select a product to edit > Product Data > Inventory >
+				Warehouse Stocks Plugin Options - List of warehouses</strong> to manage the
+			inventory stock of your product.
+		</p>
+		<p align="justify">
+			If it is a variation you need to go to <strong>Products >
+				Products > Select a product to edit > Product Data > Variations >
+				Select the variation you desire > Warehouse Stocks Plugin Options -
+				List of warehouses</strong>.
+		</p>
+		<p align="justify">The total stock amount between all warehouses
+			is handled by this plugin. You do not need to worry about this.</p>
+		<hr>
+
+		<h3 id="backendorders">
+			<strong>E) Backend orders</strong> - <a href="#toc">top</a>
+		</h3>
+		<p align="justify">
+			This can be done with the normal usage of your WooCommerce
+			installation. Here is an example: you go to <strong>WooCommerce
+				> Products > Add Order</strong>. Adding a product to the current order will
+			show you a Warehouse dropdown list with the warehouse name and the
+			corresponding stock of this product. You select the desired warehouse
+			and fill the order parameters like you do in a regular order. When
+			you press the <strong>Save Order</strong> button, your order will be
+			saved. You do not need to worry about stock decrease, this plugin will
+			handle that for you.
+		</p>
+		<p align="center">
+			<strong>Example of the warehouse dropdown per product line:</strong>
+			<img style="width: 100%" src="assets/images/screen1.png"
+				alt="Example of the warehouse dropdown per product line." />
+		</p>
+		<p align="center">
+			<strong>The <i>"Save Order"</i> button is placed under <i>"Order
+					Actions"</i>:
+			</strong> <img style="width: 100%" src="assets/images/screen2.png"
+				alt="Save order button location." />
+		</p>
+		<hr>
+
+		<h3 id="warehousetowarehouse">
+			<strong>F) Warehouse to warehouse stock transfer</strong> - <a
+				href="#toc">top</a>
+		</h3>
+		<p align="justify">
+			Warehouse to warehouse stock transfer is also important in some
+			business models. This plugin handles this transfers using
+			WooCommerce Order System. To transfer stocks from a warehouse to another
+			warehouse you just need to place an Order. You can do this by going to
+			<strong>WooCommerce > Products > Add Order</strong>. After that you
+			will be prompt with the order form, add the products you want to
+			move and select the origin warehouse by filling the Warehouse field for
+			each product line.
+		</p>
+		<p align="center">
+			<strong>This is where the destination warehouse is selected:</strong>
+			<img style="width: 100%" src="assets/images/screen3.png"
+				alt="Destination warehouse dropdown location." />
+		</p>
+		<p align="justify">
+			The destination warehouse can be selected with the dropdown in the
+			image above. When you press <strong><i>"Save Order"</i></strong> your
+			order will be saved, again you do not need to worry about stock
+			increase or decrease for each warehouse, this plugin handles that for
+			you.
+		</p>
+		<p align="justify">Please note that this plugin also grabs the
+			warehouse address and puts it in the order shipping address. When you
+			select a destination warehouse the shipping and billing addresses are
+			locked to avoid issues.</p>
+		<hr>
+
+		<h3 id="stockusage">
+			<strong>G) Frontend stock usage priority</strong> - <a href="#toc">top</a>
+		</h3>
+		<p align="justify">Priorities can be defined globally when you add
+			a warehouse. You can define a global priority number, or a priority number per item. There is a field next to the stock amount for you to set
+			the particular priority that will override the globally set
+			priorities. Frontend stock usage priority will respect this rules
+			automatically.</p>
+		<hr>
+
+		<h3 id="stockusage">
+			<strong>H) Stock Log</strong> - <a href="#toc">top</a>
+		</h3>
+		<p align="justify">
+			This feature is available under the tab <strong>Warehouses >
+				Stock Log</strong>. It saves the following changes:
+		</p>
+		<ul>
+			<li>Direct changes in the product/variations tab.</li>
+			<li>Orders made in the backend and in the frontend.</li>
+		</ul>
+		<hr>
+
+		<h3 id="stockusage">
+			<strong>H) Stock Report</strong> - <a href="#toc">top</a>
+		</h3>
+		<p align="justify">
+			This feature is available under the tab <strong>Warehouses >
+				Stock Report</strong>. It allows you to do the following:
+		</p>
+		<ul>
+			<li>Export your whole stocks to a CSV file. Where the stock
+				management is not enabled, the product is included with a warning.</li>
+			<li>Display the list of all products and product variations with
+				stocks.</li>
+		</ul>
+		<hr>
+
+		<h3 id="settings">
+			<strong>I) Plugin Settings</strong> - <a href="#toc">top</a>
+		</h3>
+		<p align="justify">
+			In some business models it is important that you are able to select when
+			you want to see your stock being decreased. This plugin allows you to
+			control this with the WooCommerce order status. To select when you
+			want to see your stock reduced go to <strong>Warehouses >
+				Plugin Settings > Woocommerce Stock Reduction State</strong> then press <strong><i>Save
+					Settings</i></strong> to store your settings.
+		</p>
+		<p align="justify">
+			<strong>List of order status supported:</strong>
+		</p>
+		<ul>
+			<li>Pending Payment (default)</li>
+			<li>Processing</li>
+			<li>On-Hold</li>
+			<li>Completed</li>
+		</ul>
+		<hr>
+
+		<h3 id="capabilities">
+			<strong>J) Capabilities</strong> - <a href="#toc">top</a>
+		</h3>
+		<p align="justify">
+			The access to the features is controlled by the user capabilities.
+			This plugin is available to every user that owns <strong>manage_options</strong>
+			capabilities. However there are another two set of capabilities if you want
+			to control it in gerater detail. Use <strong>hellodev_im_stock_log</strong>
+			to control who can access the stock log and report. Use <strong>hellodev_im_manage_warehouses</strong>
+			to allow users to modify your warehouses. Use <strong>hellodev_im_plugin_settings</strong>
+			if you want to allow users to modify the plugin settings.
+		</p>
+		<hr>
+
+		<h3 id="credits">
+			<strong>L) Sources and Credits</strong> - <a href="#toc">top</a>
+		</h3>
+		<p align="justify">
+			This plugin has been developed by Hellodev. You can check our website
+			at <a href="https://www.hellodev.us/">here</a>.
+		</p>
+		<p align="justify">
+			This plugin works with WooCommerce
+			eCommerce solution, a product of <a
+				href="http://www.woothemes.com/woocommerce/">WooThemes</a>.
+		</p>
+		<hr>
+		<p class="append-bottom alt large">
+			<strong>Hellodev</strong><br /> Rua Humberto Cruz 410<br />
+			4450-694 Leça da Palmeira<br /> PORTUGAL
+		</p>
+		<p>
+			<a href="#toc">Go To Table of Contents</a>
+		</p>
+
+		<hr class="space">
+	</div>
+	<!-- end div .container -->
+</body>
+</html>

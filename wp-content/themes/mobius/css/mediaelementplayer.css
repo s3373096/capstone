@@ -1,0 +1,477 @@
+.mejs-offscreen {
+	display: none !important;
+}
+.mejs-overlay { 
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+.mejs-video object, 
+.mejs-video .me-plugin, 
+.mejs-video embed, 
+.mejs-video iframe { 
+	position: absolute; 
+	min-width:100%; 
+	min-height: 100%;
+}
+.mejs-container.mejs-video {
+	position: relative;
+	border: none;
+	outline: none;
+	text-decoration: none;
+	background: #000;
+}
+.mejs-container.mejs-audio {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	min-height: 100%;
+	background: none;
+	top: 0;
+}
+.mejs-container .mejs-inner,
+.mejs-container .mejs-mediaelement {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+.mejs-controls,
+.mejs-overlay-button {
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+.mejs-container-fullscreen {
+	position: absolute;
+	overflow: hidden;
+	z-index: 9999;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+}
+.mejs-container-fullscreen .mejs-mediaelement,
+.mejs-container-fullscreen video {
+	width: 100%;
+	height: 100%;
+}
+.mejs-background {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.mejs-poster {
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-size: cover;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+}
+:root .mejs-poster img {
+	display: none ;
+}
+.mejs-poster img {
+	border: 0;
+	padding: 0;
+	border: 0;
+}
+.mejs-overlay-play {
+	position: absolute;
+	cursor: pointer;
+	top: 0;
+	left: 0;
+}
+.mejs-overlay-button {
+	display: none;
+}
+.mejs-overlay-loading {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 64px;
+	height: 64px;
+	margin: -32px 0px 0px -32px;	
+}
+.mejs-overlay-loading span {
+	display: block !important;
+	width: 65px;
+	height: 65px;
+	border-radius: 100px;
+}
+.mejs-container .mejs-controls {
+	position: absolute;
+	height: 30px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: 0;
+	padding: 0;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+	-o-box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+	box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+}
+.mejs-container .mejs-controls:before {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	height: 15px;
+	background: -moz-linear-gradient(top, rgba(255,255,255,.15) 0%, rgba(255,255,255,0) 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,.15)), color-stop(100%,rgba(255,255,255,0)));
+	background: -webkit-linear-gradient(top, rgba(255,255,255,.15) 0%,rgba(255,255,255,0) 100%);
+	background: -o-linear-gradient(top, rgba(255,255,255,.15) 0%,rgba(255,255,255,0) 100%);
+	background: -ms-linear-gradient(top, rgba(255,255,255,.15) 0%,rgba(255,255,255,0) 100%);
+	background: linear-gradient(to bottom, rgba(255,255,255,.15) 0%,rgba(255,255,255,0) 100%);
+}
+.mejs-controls .mejs-button button {
+	text-decoration: none;
+	border: 0;
+	cursor: pointer;
+}
+.mejs-time.mejs-currenttime-container {
+	position: absolute;
+	display: block;
+	height: 30px;
+	left: 35px;
+	line-height: 30px;
+	font-size: 12px;
+	text-align: center;
+}
+.mejs-time.mejs-duration-container {
+	position: absolute;
+	display: block;
+	height: 30px;
+	right: 75px;
+	line-height: 30px;
+	font-size: 12px;
+	text-align: center;
+}
+.mejs-time.mejs-currenttime-container,
+.mejs-time.mejs-duration-container {
+	height: 30px;
+	line-height: 30px;	
+}
+.mejs-controls .mejs-playpause-button {
+	position: absolute;
+	overflow: hidden;
+	height: 30px;
+	width: 35px;
+	bottom: 0;
+	left: 0;
+	cursor: pointer;
+	text-align: center;
+}
+.mejs-controls .mejs-play .fa-pause,
+.mejs-controls .mejs-pause .fa-play {
+	display: none;
+}
+.mejs-controls .mejs-play:before,
+.mejs-controls .mejs-play button .fa-play {
+	position: relative;
+	display: block;
+    content: "\f04b"; 
+    font-family: FontAwesome;
+	position: relative;
+	line-height: 30px;
+}
+.mejs-controls .mejs-pause:before,
+.mejs-controls .mejs-pause button .fa-pause {
+	position: relative;
+	display: block;
+    content: "\f04c"; 
+    font-family: FontAwesome;	
+	line-height: 30px;
+}
+.mejs-controls .mejs-play:before,
+.mejs-controls .mejs-pause:before {
+	line-height: 30px;
+}
+.mejs-controls .mejs-time-rail {
+	position: relative;
+	display: block;
+	float: left;
+	direction: ltr;
+	height: 6px;
+	margin: 12px 120px 12px 80px;
+	cursor: pointer;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	background: rgba(0,0,0,.25);
+	-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+	-moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+	-o-box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+	box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+}
+.mejs-controls .mejs-time-rail span {
+	position: absolute;
+	display: block;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+.mejs-controls .mejs-time-rail .mejs-time-total {
+	position: absolute;
+	display: block;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+}
+.mejs-controls .mejs-time-rail .mejs-time-buffering {
+	width: 100%;
+	-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+	-moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+	-o-box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+	box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+}
+.mejs-controls .mejs-time-rail .mejs-time-current {
+	-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+	-moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+	-o-box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+	box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+}
+.mejs-controls .mejs-time-rail .mejs-time-handle {
+	display: none;
+	position: absolute;
+	margin: 0;
+	width: 5px;
+	background: transparent;
+	cursor: pointer;
+	top: 1px;
+	text-align: center;
+}
+.mejs-controls .mejs-time-rail .mejs-time-float {
+	position: absolute;
+	display: none;
+	width: 36px;
+	height: 17px;
+	top: -27px;
+	margin-left: -13px;
+	text-align: center;
+	opacity: 0.9;
+}
+.mejs-controls .mejs-time-rail:hover .mejs-time-float {
+	display: block;
+}
+.mejs-controls .mejs-time-rail .mejs-time-float-current {
+	display: block;
+	margin: 3px;
+	width: 36px;
+	height: 18px;
+	line-height: 18px;
+	font-size: 11px;
+	text-align: center;
+	left: 0;
+	background: #1a1a1a;
+	color: #ffffff;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+.mejs-controls .mejs-time-rail .mejs-time-float-corner {
+	position: absolute;
+	display: block;
+	width: 0;
+	height: 0;
+	line-height: 0;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	top: 20px;
+	left: 9px;
+	border: solid 6px #1a1a1a;
+	border-color: #1a1a1a transparent transparent transparent;
+}
+.mejs-controls .mejs-fullscreen-button {
+	position: absolute;
+	display: block;
+	width: 30px;
+	height: 30px;
+	right: 0;
+	top: 0px;
+	outline: none;	
+}
+.mejs-controls .mejs-fullscreen-button button {
+	position: relative;
+	width: 30px;
+	height: 30px;
+	background: none;
+	outline: none;
+}
+.mejs-controls .mejs-fullscreen-button button:before,
+.mejs-controls .mejs-fullscreen-button button .fa-expand {
+	position: relative;
+	content: "\f065"; 
+    font-family: FontAwesome;
+	width: 100%;
+	height: 100%;
+	line-height: 30px;
+	text-align: left;
+}
+.mejs-controls .mejs-unfullscreen button {
+	position: relative;
+	width: 30px;
+	height: 30px;
+	box-shadow: none !important;
+}
+.mejs-controls .mejs-unfullscreen button:before,
+.mejs-controls .mejs-unfullscreen button .fa-compress {
+	content: "\f066"; 
+    font-family: FontAwesome;
+    font-size: 14px;
+	position: relative;
+	width: 100%;
+	height: 100%;
+	line-height: 30px;
+	text-align: left;
+}
+.mejs-controls .mejs-volume-button {
+	position: absolute;
+	cursor: pointer;
+	width: 30px;
+	height: 30px;
+	top: 0;
+	right: 32px;
+	line-height: 30px;
+}
+.mejs-controls .mejs-volume-button button {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	background: none;
+}
+.mejs-controls .mejs-mute button:before,
+.mejs-controls .mejs-mute button .fa-volume-up {
+	content: "\f028"; 
+    font-family: FontAwesome;
+	position: relative;
+	width: 100%;
+	height: 100%;
+	text-align: left;
+	font-size: 14px;
+}
+.mejs-controls .mejs-mute button .fa-volume-off,
+.mejs-controls .mejs-unmute button .fa-volume-up {
+	display: none;
+}
+.mejs-controls .mejs-unmute button:before,
+.mejs-controls .mejs-unmute button .fa-volume-off {
+	content: "\f026"; 
+    font-family: FontAwesome;
+	position: relative;
+	width: 100%;
+	height: 100%;
+	text-align: left;
+	font-size: 14px;
+}
+.mejs-controls .mejs-volume-button .mejs-volume-slider {
+	position: absolute;
+	display: none;
+	height: 70px;
+	width: 30px;
+	bottom: 30px;
+	background: rgba(0,0,0,0.75);
+}
+.mejs-controls .mejs-volume-button:hover .mejs-volume-slider {
+	display: block;
+}
+.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-total {
+	position: absolute;
+	left: 13px;
+	top: 5px;
+	bottom: 5px;
+	width: 5px;
+	height: 60px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	background: rgba(0,0,0,.25);
+	-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+	-moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+	-o-box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+	box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+}
+.mejs-controls .mejs-volume-slider .mejs-volume-current {
+	position: absolute;
+	display: block;
+	left: 13px;
+	top: 17px;
+	bottom: 5px;
+	width: 5px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+	-moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+	-o-box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+	box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+}
+.mejs-controls .mejs-volume-slider .mejs-volume-handle {
+	position: absolute;
+	left: 14px;
+	top: 16px;
+	width: 5px;
+	height: 5px;
+	background: transparent;
+}
+.mejs-controls div.mejs-horizontal-volume-slider {
+	position: absolute;
+	overflow: hidden;
+	height: 4px;
+	width: 75px;
+	top: 18px;
+	left: 80px;
+	background: none;	
+	border-radius: 4px;
+}
+
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	border-radius: 4px;
+}
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
+	position: absolute;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border-radius: 4px;
+	opacity: 0.75;
+}
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-handle {
+	display: none;
+}
+.mejs-clear {
+	clear: both;
+}
+.me-cannotplay {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+}
+.me-cannotplay span {
+	padding: 10px;
+	position: absolute;
+	top: -30px;
+	display: block;
+	font-weight: bold;
+}
+
+

@@ -1,0 +1,49 @@
+tr.drag-order { 
+	cursor: move;
+	background: #e5e5e5;
+}
+#sortable-table .drag-order.ui-sortable-helper { 
+	-webkit-box-shadow: 2px 2px 5px 1px rgba(0,0,0,0.2);
+	box-shadow: 2px 2px 5px 1px rgba(0,0,0,0.2);
+}
+#sortable-table .drag-order td { 
+	background: white;
+	border-top: 4px solid white;
+	background: #e5e5e5;
+}
+#sortable-table .drag-order.ui-sortable-helper td { 
+	background: rgba(0,0,0,0);
+	border-top: none;
+}
+#sortable-table .column-order {
+	padding: 3px 10px;
+	width: 50px;
+	vertical-align: middle;
+	text-align: center;
+}
+#sortable-table .column-thumbnail {
+	width: 80px;
+	height: 80px;
+}
+#sortable-table .column-title {
+	width: 250px;
+}
+#sortable-table .column-type {
+	width: 100px;
+}
+#sortable-table .column-author {
+	width: 150px;
+}
+#save-message {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin: -30px 0 0 -60px;
+	width: 120px;
+	height: 60px;
+	background: rgba(0,0,0,0.75);
+	line-height: 60px;
+	border-radius: 3px;
+	color: #fff;
+	text-align: center;
+}

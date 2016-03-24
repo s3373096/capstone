@@ -1,0 +1,139 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="copy">_user_liked</custom-field>
+		<custom-field action="copy">_user_like_count</custom-field>
+		<custom-field action="copy">_user_IP</custom-field>
+        <custom-field action="copy">_post_like_count</custom-field>
+        <custom-field action="copy">_liked_posts</custom-field>	
+		<custom-field action="copy">themeone-element-class</custom-field>
+		<custom-field action="translate">themeone-post-quote</custom-field>
+		<custom-field action="copy">themeone-post-quote-author</custom-field>
+		<custom-field action="translate">themeone-post-link</custom-field>
+		<custom-field action="copy">themeone-post-link-url</custom-field>
+		<custom-field action="copy">themeone-video-m4v</custom-field>
+		<custom-field action="copy">themeone-video-ogv</custom-field>
+		<custom-field action="copy">themeone-video-embed</custom-field>
+		<custom-field action="copy">themeone-video-poster</custom-field>
+		<custom-field action="copy">themeone-audio-mp3</custom-field>
+		<custom-field action="copy">themeone-audio-ogg</custom-field>
+		<custom-field action="copy">themeone-artiste-name</custom-field>
+		<custom-field action="copy">themeone-song-name</custom-field>
+		<custom-field action="copy">themeone-album-image</custom-field>
+		<custom-field action="translate">themeone-header-title</custom-field>
+		<custom-field action="translate">themeone-header-subtitle</custom-field>
+		<custom-field action="copy">themeone-header-color</custom-field>		
+		<custom-field action="copy">themeone-header-txt-align</custom-field>
+		<custom-field action="copy">themeone-header-height</custom-field>
+		<custom-field action="copy">themeone-header-image</custom-field>
+		<custom-field action="copy">themeone-header-image-alignment</custom-field>
+		<custom-field action="copy">themeone-header-repeat</custom-field>
+		<custom-field action="copy">themeone-header-parallax</custom-field>
+		<custom-field action="copy">themeone-header-menu</custom-field>
+		<custom-field action="copy">themeone-header-transparent</custom-field>
+		<custom-field action="translate">themeone-portfolio-sidebar</custom-field>
+		<custom-field action="copy">themeone-extended-page</custom-field>	
+		<custom-field action="copy">themeone-slide-image</custom-field>
+		<custom-field action="copy">themeone-slide-image-alignment</custom-field>
+		<custom-field action="copy">themeone-slide-pattern</custom-field>
+		<custom-field action="copy">themeone-slide-overlay-bg</custom-field>
+		<custom-field action="copy">themeone-slide-overlay-opacity</custom-field>
+		<custom-field action="translate">themeone-slide-title</custom-field>
+		<custom-field action="translate">themeone-slide-desc</custom-field>
+		<custom-field action="copy">themeone-slide-desc-bg</custom-field>
+		<custom-field action="translate">themeone-slide-button-text</custom-field>
+		<custom-field action="copy">themeone-slide-button-link</custom-field>
+		<custom-field action="copy">themeone-slide-alignment</custom-field>
+		<custom-field action="copy">themeone-slide-color</custom-field>
+		<custom-field action="translate">themeone-slide-m4v</custom-field>
+		<custom-field action="translate">themeone-slide-ogv</custom-field>
+		<custom-field action="translate">themeone-slide-youtube</custom-field>
+		<custom-field action="translate">themeone-slide-vimeo</custom-field>
+		<custom-field action="copy">themeone-slider-height</custom-field>
+		<custom-field action="copy">themeone-slider-full-height</custom-field>
+		<custom-field action="copy">themeone-slider-timer</custom-field>
+		<custom-field action="copy">themeone-slider-time-bar</custom-field>
+		<custom-field action="copy">themeone-slider-time</custom-field>
+		<custom-field action="copy">themeone-slider-parallax</custom-field>
+		<custom-field action="copy">themeone-slider-transparent</custom-field>	
+		<custom-field action="translate">themeone-slider-slides</custom-field>
+		<custom-field action="copy">themeone-slides-drag</custom-field>
+		<custom-field action="translate">themeone-get-slider</custom-field>
+		<custom-field action="translate">themeone-sidebar</custom-field>
+		<custom-field action="copy">themeone-sidebar-position</custom-field>
+		<custom-field action="copy">themeone-sidebar-margintop</custom-field>
+		<custom-field action="copy">themeone-top-footer</custom-field>
+		<custom-field action="copy">themeone-bot-footer</custom-field>
+		<custom-field action="copy">themeone-footerBg</custom-field>
+		<custom-field action="copy">themeone-footerBg-image</custom-field>
+		<custom-field action="copy">themeone-footerBg-top-opacity</custom-field>
+		<custom-field action="copy">themeone-footerBg-bot-opacity</custom-field>
+		<custom-field action="copy">themeone-footerBg-top-color</custom-field>
+		<custom-field action="copy">themeone-footerBg-bot-color</custom-field>
+		<custom-field action="copy">themeone-footerBg-bot-txt</custom-field>
+		<custom-field action="copy">themeone-footerBg-top-txt</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">portfolio</custom-type>
+        <custom-type translate="1">to_slide</custom-type>
+		<custom-type translate="1">to_slider</custom-type>
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">portfolio_tag</taxonomy>
+        <taxonomy translate="1">portfolio_category</taxonomy>
+        <taxonomy translate="1">portfolio_attributes</taxonomy>
+    </taxonomies>    
+    <admin-texts>
+        <key name="mobius">
+			<key name="footer-copyright" />
+			<key name="callTo-button-text" />
+            <key name="callTo-text" />
+            <key name="map-info-1" />
+			<key name="map-info-2" />
+			<key name="map-info-3" />
+			<key name="map-info-4" />
+			<key name="map-info-5" />
+			<key name="map-info-6" />
+			<key name="map-info-7" />
+			<key name="map-info-8" />
+			<key name="map-info-9" />
+			<key name="map-info-10" />
+        </key>
+    </admin-texts>    
+    <language-switcher-settings>
+        <key name="icl_lang_sel_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>
+        <key name="icl_lang_sel_footer_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>    
+        <key name="icl_language_switcher_sidebar">0</key>  
+        <key name="icl_widget_title_show">0</key>
+        <key name="icl_lang_sel_type">dropdown</key>
+        <key name="icl_lso_link_empty">0</key>
+        <key name="icl_lso_flags">0</key>
+        <key name="icl_lso_native_lang">1</key>
+        <key name="icl_lso_display_lang">1</key>
+        <key name="icl_lang_sel_footer">0</key>
+        <key name="icl_post_availability">0</key>
+        <key name="icl_post_availability_position">below</key>
+        <key name="icl_post_availability_text">This post is also available in: %s</key>    
+    </language-switcher-settings>    
+</wpml-config>
+
+

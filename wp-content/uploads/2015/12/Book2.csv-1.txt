@@ -1,0 +1,3 @@
+Product Name,,,,,,,,,,,,,,
+post_title,post_status,post_date,sku,stock_status,regular_price,images,tax:product_type,tax:product_cat,tax:product_color,meta:themeone-footerBg-top-opacity,meta:themeone-header-color,meta:themeone-header-height,meta:themeone-header-image-alignment,meta:themeone-header-txt-align
+Test Product Tuan,publish,,TEST,instocl,50,,simple,Cement Tiles,Blue,0,dark,80,center,left

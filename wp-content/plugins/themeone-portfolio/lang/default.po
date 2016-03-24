@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Themeone Portfolio\n"
+"POT-Creation-Date: 2015-02-19 19:53+0100\n"
+"PO-Revision-Date: 2015-02-19 19:53+0100\n"
+"Last-Translator: \n"
+"Language-Team: ThemeOne <themeone.master@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../themeone-portfolio.php:38
+msgid "Portfolio"
+msgstr ""
+
+#: ../themeone-portfolio.php:39
+msgid "Portfolio Item"
+msgstr "dsfgsdfs"
+
+#: ../themeone-portfolio.php:40
+msgid "Add New Item"
+msgstr ""
+
+#: ../themeone-portfolio.php:41 ../themeone-portfolio.php:43
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../themeone-portfolio.php:42
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../themeone-portfolio.php:44
+msgid "View Item"
+msgstr ""
+
+#: ../themeone-portfolio.php:45
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../themeone-portfolio.php:46
+msgid "No portfolio items found"
+msgstr ""
+
+#: ../themeone-portfolio.php:47
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: ../themeone-portfolio.php:66 ../themeone-portfolio.php:80
+msgid "Portfolio Tags"
+msgstr ""
+
+#: ../themeone-portfolio.php:67
+msgid "Portfolio Tag"
+msgstr ""
+
+#: ../themeone-portfolio.php:68
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: ../themeone-portfolio.php:69
+msgid "Popular Portfolio Tags"
+msgstr ""
+
+#: ../themeone-portfolio.php:70
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: ../themeone-portfolio.php:71
+msgid "Parent Portfolio Tag"
+msgstr ""
+
+#: ../themeone-portfolio.php:72
+msgid "Parent Portfolio Tag:"
+msgstr ""
+
+#: ../themeone-portfolio.php:73
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: ../themeone-portfolio.php:74
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: ../themeone-portfolio.php:75
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: ../themeone-portfolio.php:76
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: ../themeone-portfolio.php:77
+msgid "Separate portfolio tags with commas"
+msgstr ""
+
+#: ../themeone-portfolio.php:78
+msgid "Add or remove portfolio tags"
+msgstr ""
+
+#: ../themeone-portfolio.php:79
+msgid "Choose from the most used portfolio tags"
+msgstr ""
+
+#: ../themeone-portfolio.php:98 ../themeone-portfolio.php:112
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../themeone-portfolio.php:99
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../themeone-portfolio.php:100
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../themeone-portfolio.php:101
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: ../themeone-portfolio.php:102
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../themeone-portfolio.php:103
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../themeone-portfolio.php:104
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: ../themeone-portfolio.php:105
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../themeone-portfolio.php:106
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../themeone-portfolio.php:107
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../themeone-portfolio.php:108
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../themeone-portfolio.php:109
+msgid "Separate portfolio categories with commas"
+msgstr ""
+
+#: ../themeone-portfolio.php:110
+msgid "Add or remove portfolio categories"
+msgstr ""
+
+#: ../themeone-portfolio.php:111
+msgid "Choose from the most used portfolio categories"
+msgstr ""
+
+#: ../themeone-portfolio.php:130 ../themeone-portfolio.php:139
+msgid "Portfolio Attributes"
+msgstr ""
+
+#: ../themeone-portfolio.php:131
+msgid "Portfolio Attribute"
+msgstr ""
+
+#: ../themeone-portfolio.php:132
+msgid "Search Portfolio Attributes"
+msgstr ""
+
+#: ../themeone-portfolio.php:133
+msgid "All Portfolio Attributes"
+msgstr ""
+
+#: ../themeone-portfolio.php:134
+msgid "Parent Portfolio Attribute"
+msgstr ""
+
+#: ../themeone-portfolio.php:135
+msgid "Edit Portfolio Attribute"
+msgstr ""
+
+#: ../themeone-portfolio.php:136
+msgid "Update Portfolio Attribute"
+msgstr ""
+
+#: ../themeone-portfolio.php:137
+msgid "Add New Portfolio Attribute"
+msgstr ""
+
+#: ../themeone-portfolio.php:138
+msgid "New Portfolio Attribute"
+msgstr ""
+
+#: ../themeone-portfolio.php:160
+msgid "Thumbnail"
+msgstr ""

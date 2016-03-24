@@ -1,0 +1,478 @@
+/*******************************
+DEMO IMPORTER HOLDERS
+********************************/
+
+.to-import-demos-info {
+	position: relative;
+	display: block;
+	background: #f1f1f1;
+	margin: 0 0 30px 0;
+	padding: 25px;
+	line-height: 20px;
+	font-style: italic;
+	font-size: 13px;
+	font-weight: 600;	
+}
+.to-import-demos-holder {
+	display: block;
+}
+.to-import-demos-holder h3,
+.to-import-demo-name {
+	line-height: 18px !important;
+	border: none !important;
+}
+.to-import-demos-holder.to-demo-is-importing .to-import-demo-holder {
+	opacity: 0.45;
+	pointer-events: none;
+}
+.to-import-demos-holder.to-demo-is-importing .to-import-demo-holder.to-demo-importing {
+	opacity: 1;
+}
+.to-import-demos-holder {
+	margin: 10px 20px 0 20px;
+}
+.to-import-demo-holder {
+	position: relative;
+	display: inline-block;
+	margin: 0 4% 4% 0;
+	width: 30.6%;
+	background: #ffffff;
+	border: 1px solid #dedede;
+	-webkit-box-shadow: 0 1px 1px -1px rgba(0,0,0,.1);
+	box-shadow: 0 1px 1px -1px rgba(0,0,0,.1);
+	-webkit-transition: opacity .3s ease-in-out;
+	transition: opacity .3s ease-in-out;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.to-import-demos-holder .to-import-demo-holder:nth-child(3n) {
+	margin-right: 0;
+}
+.to-import-demo-img {
+	position: relative;
+	display: block;
+	width: 100%;
+}
+.to-import-demo-img img {
+	position: relative;
+	display: block;
+}
+.to-import-demo-content {
+	position: relative;
+	display: block;
+}
+.to-import-demo-name {
+	position: relative;
+	display: block;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	color: #23282d;
+	font-size: 15px;
+	padding: 15px;
+	margin: 0;
+	-webkit-box-shadow: inset 0 1px 0 rgba(0,0,0,.1);
+	box-shadow: inset 0 1px 0 rgba(0,0,0,.1);
+	white-space: nowrap;
+	background: rgba(255,255,255,.65);
+}
+.to-demo-imported .to-import-demo-name {
+	background: #4ECDC4;
+	color: #ffffff;
+}
+.to-demo-imported-error .to-import-demo-name {
+	background: #e74c3c;
+	color: #ffffff;
+}
+.to-import-demo-holder .spinner {
+	display: none;
+	visibility: visible;
+	margin: 4px 0 4px 10px;
+}
+.to-demo-import-wait {
+	display: none;
+	margin: 4px 4px 4px 0;
+}
+.to-demo-importing .to-demo-import-wait,
+.to-demo-importing .spinner {
+	display: inline-block;
+}
+
+.to-import-demo-overlay,
+.to-import-demo-install {
+	position: absolute;
+	overflow: hidden;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	opacity: 0;
+	background: #ffffff;
+	cursor: pointer;
+	-webkit-transition: opacity .3s ease-in-out;
+	transition: opacity .3s ease-in-out;
+}
+.to-import-demo-install-inner {
+	position: relative;
+	display: block;
+	margin: 20px 15px;
+}
+.to-import-demo-install-inner span {
+	font-size: 12px;
+	font-style: italic;
+}
+.to-import-demo-holder:hover .to-import-demo-overlay {
+	opacity: 0.5;
+}
+.to-import-demo-holder .to-import-visit-site,
+.to-demo-importing .to-import-demo-details,
+.to-demo-importing .to-import-demo-overlay,
+.to-demo-imported .to-import-demo-details,
+.to-demo-imported .to-import-demo-import,
+.to-demo-imported .to-import-demo-preview {
+	display: none;
+}
+.to-demo-imported .to-import-visit-site {
+	display: inline-block !important;
+}
+.to-demo-importing .to-import-demo-install {
+	display: block;
+	opacity: 0.92;
+}
+.to-import-demo-details {
+	position: absolute;
+	top: 35%;
+	right: 25%;
+	left: 25%;
+	opacity: 0;
+	background: #34495e;
+	color: #fff;
+	font-size: 15px;
+	text-shadow: 0 1px 0 rgba(0,0,0,.6);
+	-webkit-font-smoothing: antialiased;
+	font-weight: 600;
+	padding: 15px 12px;
+	text-align: center;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	cursor: pointer;
+	-webkit-transition: opacity .3s ease-in-out;
+	transition: opacity .3s ease-in-out;
+}
+.to-import-demo-holder:hover .to-import-demo-details {
+	opacity: 0.9;
+}
+
+/*******************************
+DEMO IMPORTER BUTTON
+********************************/
+
+.to-import-demo-actions {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	height: 38px;
+	padding: 10px 10px 0;
+	background: #F6F6F6;
+	border-left: 1px solid rgba(0,0,0,.05);
+	-webkit-box-shadow: inset 0 1px 0 rgba(0,0,0,.1);
+	box-shadow: inset 0 1px 0 rgba(0,0,0,.1);
+}
+.to-import-demo-actions a:hover,
+.to-import-demo-actions a:active,
+.to-import-demo-actions a:focus {
+	outline: 0;
+	border: 0;
+	box-shadow: none;
+	-webkit-box-shadow: 0 1px 5px rgba(0,0,0,.15);
+	-moz-box-shadow: 0 1px 5px rgba(0,0,0,.15);
+	box-shadow: 0 1px 5px rgba(0,0,0,.15);
+}
+.to-import-button {
+	position: relative;
+	display: inline-block;
+	float: left;
+	height: 28px;
+	margin: 0 3px;
+	padding: 0 10px 1px;
+	cursor: pointer;
+	text-decoration: none;
+	font-size: 13px;
+	line-height: 26px;
+	white-space: nowrap;
+	-webkit-appearance: none;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	-webkit-transition: opacity .3s ease-in-out;
+	transition: opacity .3s ease-in-out;
+	-webkit-box-shadow: 0 1px 5px rgba(0,0,0,.15);
+	-moz-box-shadow: 0 1px 5px rgba(0,0,0,.15);
+	box-shadow: 0 1px 5px rgba(0,0,0,.15);
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.to-import-demo-import,
+.to-import-demo-visitesite,
+.to-import-demo-reimport,
+.to-import-demo-import:active,
+.to-import-demo-visitesite:active,
+.to-import-demo-reimport:active,
+.to-import-demo-import:focus,
+.to-import-demo-visitesite:focus,
+.to-import-demo-reimport:focus {
+	background: #34495e;
+	color: #ffffff;
+}
+.to-import-demo-import:hover,
+.to-import-demo-visitesite:hover,
+.to-import-demo-reimport:hover {
+	background: #34495e;
+	color: #ffffff;
+	opacity: 0.9;
+}
+.to-import-demo-log,
+.to-import-demo-log:active,
+.to-import-demo-log:focus,
+.to-import-demo-preview,
+.to-import-demo-preview:active,
+.to-import-demo-preview:focus {
+	background: #ffffff;
+	color: #333333;
+}
+.to-import-demo-log:hover,
+.to-import-demo-preview:hover{
+	background: #ffffff;
+	color: #333333;
+	opacity: 0.9;
+}
+.to-import-demo-visitesite,
+.to-import-demo-reimport,
+.to-import-demo-log,
+.to-demo-importing .to-import-demo-preview,
+.to-demo-importing .to-import-demo-import,
+.to-demo-importing .to-import-demo-reimport,
+.to-demo-importing .to-import-demo-visitesite
+.to-demo-imported .to-import-demo-preview,
+.to-demo-imported .to-import-demo-import,
+.to-demo-imported .to-import-demo-reimport,
+.to-demo-imported-error .to-import-demo-import {
+	display: none;
+}
+.to-demo-imported .to-import-demo-log,
+.to-demo-imported-error .to-import-demo-log
+.to-demo-imported-error .to-import-demo-reimport,
+.to-demo-imported .to-import-demo-visitesite {
+	display: inline-block;
+}
+
+/*******************************
+DEMO IMPORTER LOG
+********************************/
+
+.to-import-demo-log-holder {
+	position: fixed;
+	display: none;
+	z-index: 9999;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 160px;
+	background: rgba(238,238,238,.85);
+}
+.to-import-demo-log-inner {
+	position: absolute;
+	display: block;
+	overflow: hidden;
+	padding: 20px;
+	margin: 0 auto 10px auto;
+	width: 480px;
+	left: 0;
+	right: 0;
+	top: 15%;
+	bottom: 15%;
+	background: #ffffff;
+	-webkit-box-shadow: 0 1px 20px 5px rgba(0,0,0,.1);
+	box-shadow: 0 1px 20px 5px rgba(0,0,0,.1);
+}
+.to-import-demo-log-header {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 48px;
+	border-bottom: 1px solid #ddd;
+}
+.to-import-demo-log-header h3 {
+	display: inline-block;
+	margin: 15px 20px;
+}
+.to-import-demo-log-header .close {
+	cursor: pointer;
+	height: 48px;
+	width: 50px;
+	text-align: center;
+	float: right;
+	color: #777;
+	border: 0;
+	border-left: 1px solid #ddd;
+	background-color: transparent;
+	-webkit-transition: color .1s ease-in-out,background .1s ease-in-out;
+	transition: color .1s ease-in-out,background .1s ease-in-out;
+}
+.to-import-demo-log-header .close:hover {
+	background: #f5f5f5;
+	border-color: #ccc;
+	color: #000;
+}
+.to-import-demo-log-content {
+	position: absolute;
+	display: block;
+	overflow: hidden;
+	overflow-y: scroll;
+	left: 0;
+	right: 0;
+	top: 49px;
+	bottom: 0;
+	padding: 0px 20px 20px 20px;
+}
+.to-import-demo-log-content span {
+	padding: 0 0 0 10px;
+}
+.to-import-demo-log-header h3,
+.to-import-demo-log-content h3 {
+	margin-top: 15px !important;
+}
+
+/*******************************
+DEMO IMPORTER MEDIA QUERIES
+********************************/
+
+.redux-main .to-import-demo-holder {
+	margin: 0 4% 4% 0;
+	width: 30.6%;
+}
+.redux-main .to-import-demos-holder .to-import-demo-holder:nth-child(3n) {
+	margin-right: 0;
+}
+
+@media only screen and (min-width: 1640px) {
+.to-import-demos-holder .to-import-demo-holder {
+	width: 22.7%;
+	margin: 0 3% 3% 0;
+}
+.to-import-demos-holder .to-import-demo-holder:nth-child(3n) {
+	margin-right: 3%;
+}
+.to-import-demos-holder .to-import-demo-holder:nth-child(4n) {
+	margin-right: 0;
+}
+.redux-main .to-import-demo-holder {
+	margin: 0 4% 4% 0;
+	width: 30.6%;
+}
+.redux-main .to-import-demos-holder .to-import-demo-holder:nth-child(3n) {
+	margin-right: 0;
+}
+.redux-main .to-import-demos-holder .to-import-demo-holder:nth-child(4n) {
+	margin: 0 4% 4% 0;
+}
+}
+@media only screen and (max-width: 1500px) {
+.redux-main .to-import-demos-holder .to-import-demo-holder {
+	width: 47.5%;
+	margin-right: 0;
+}
+.redux-main .to-import-demos-holder .to-import-demo-holder:nth-child(odd) {
+	margin-right: 5%;
+}
+.redux-main .to-import-demos-holder .to-import-demo-holder:nth-child(even) {
+	margin-right: 0;
+}
+}
+@media only screen and (max-width: 1120px) {
+.to-import-demos-holder .to-import-demo-holder {
+	width: 47.5%;
+	margin-right: 0;
+}
+.to-import-demos-holder .to-import-demo-holder:nth-child(odd) {
+	margin-right: 5%;
+}
+.to-import-demos-holder .to-import-demo-holder:nth-child(even) {
+	margin-right: 0;
+}
+@media only screen and (max-width: 960px) {
+.to-import-demo-log-holder {
+	left: 40px;
+}
+}
+@media only screen and (max-width: 782px) {
+.to-import-demo-log-holder {
+	left: 0px;
+}
+}
+@media only screen and (max-width: 789px) {
+.to-import-demo-actions {
+	position: relative;
+	display: block;
+	border-top: 1px solid rgba(0,0,0,.05);
+}
+.to-import-demo-actions .button {
+	display: inline-block;
+	position: relative;
+	float: left;
+}
+.to-import-demos-holder {
+	margin: 10px 0 0 0;
+}
+@media only screen and (max-width: 580px) {
+.redux-main .to-import-demos-holder .to-import-demo-holder {
+	width: 100%;
+	margin-right: 0;
+}
+.redux-main .to-import-demos-holder .to-import-demo-holder:nth-child(odd) {
+	margin-right: 5%;
+}
+.redux-main .to-import-demos-holder .to-import-demo-holder:nth-child(3n) {
+	margin-right: 0;
+}
+.redux-main .to-import-demo-actions {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	border-top: none;
+}
+.redux-main .to-import-demos-holder .to-import-demo-holder {
+	width: 100%;
+	margin-right: 0;
+}
+}
+@media only screen and (max-width: 480px) {
+.to-import-demo-actions {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+.to-import-demos-holder .to-import-demo-holder {
+	width: 100%;
+	margin-right: 0;
+}
+.to-import-demos-holder .to-import-demo-holder:nth-child(odd) {
+	margin-right: 5%;
+}
+.to-import-demos-holder .to-import-demo-holder:nth-child(3n) {
+	margin-right: 0;
+}
+}
+@media only screen and (max-width: 379px) {
+.to-import-demo-actions {
+	position: relative;
+	display: block;
+	border-top: 1px solid rgba(0,0,0,.05);
+}
+.to-import-demo-actions .button {
+	display: inline-block;
+	position: relative;
+	float: left;
+}
+}
